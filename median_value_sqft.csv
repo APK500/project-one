@@ -1,0 +1,732 @@
+﻿Region Name,State,2018-01
+New York,NY,255
+Los Angeles,CA,423
+Chicago,IL,142
+Dallas,TX,118
+Philadelphia,PA,140
+Houston,TX,98
+Washington,DC,237
+Miami,FL,176
+Atlanta,GA,103
+Boston,MA,271
+San Francisco,CA,597
+Detroit,MI,113
+Riverside,CA,202
+Phoenix,AZ,147
+Seattle,WA,273
+Minneapolis-St Paul,MN,191
+San Diego,CA,364
+St. Louis,MO,116
+Tampa,FL,129
+Baltimore,MD,174
+Denver,CO,248
+Pittsburgh,PA,103
+Portland,OR,236
+Charlotte,NC,111
+Sacramento,CA,232
+San Antonio,TX,101
+Orlando,FL,127
+Cincinnati,OH,102
+Cleveland,OH,93
+Kansas City,MO,114
+Las Vegas,NV,145
+Columbus,OH,114
+Indianapolis,IN,88
+San Jose,CA,763
+Austin,TX,151
+Virginia Beach,VA,131
+Nashville,TN,137
+Providence,RI,195
+Milwaukee,WI,122
+Jacksonville,FL,114
+Memphis,TN,77
+Oklahoma City,OK,88
+Louisville-Jefferson County,KY,110
+Hartford,CT,144
+Richmond,VA,124
+New Orleans,LA,117
+Buffalo,NY,108
+Raleigh,NC,129
+Birmingham,AL,87
+Salt Lake City,UT,201
+Rochester,NY,98
+Grand Rapids,MI,112
+Tucson,AZ,123
+Urban Honolulu,HI,540
+Tulsa,OK,82
+Fresno,CA,150
+Worcester,MA,170
+Stamford,CT,228
+Albuquerque,NM,99
+Albany,NY,139
+Omaha,NE,117
+New Haven,CT,147
+Bakersfield,CA,132
+Knoxville,TN,103
+Greenville,SC,98
+Ventura,CA,343
+Allentown,PA,123
+El Paso,TX,79
+Baton Rouge,LA,119
+Dayton,OH,83
+Columbia,SC,81
+Akron,OH,93
+North Port-Sarasota-Bradenton,FL,156
+Little Rock,AR,84
+Stockton,CA,197
+Syracuse,NY,90
+Colorado Springs,CO,145
+Winston-Salem,NC,85
+Springfield,MA,152
+Fort Myers,FL,141
+Boise City,ID,132
+Toledo,OH,78
+Madison,WI,167
+Lakeland,FL,104
+Ogden,UT,168
+Daytona Beach,FL,119
+Des Moines,IA,130
+Jackson,MS,88
+Youngstown,OH,64
+Augusta,GA,75
+Scranton,PA,65
+Harrisburg,PA,111
+Melbourne,FL,128
+Chattanooga,TN,86
+Spokane,WA,158
+Provo,UT,177
+Lancaster,PA,131
+Modesto,CA,185
+Portland,ME,198
+Durham,NC,130
+Santa Rosa,CA,419
+Lexington,KY,102
+Lafayette,LA,77
+Lansing,MI,108
+Fayetteville,AR,102
+Pensacola,FL,96
+Visalia,CA,135
+Shreveport,LA,84
+Springfield,MO,81
+York,PA,115
+Flint,MI,45
+Reno,NV,201
+Asheville,NC,156
+Port St. Lucie,FL,129
+Santa Maria-Santa Barbara,CA,392
+Fort Wayne,IN,74
+Salinas,CA,353
+Vallejo,CA,260
+Mobile,AL,71
+Reading,PA,106
+Brownsville,TX,68
+Killeen,TX,72
+Manchester,NH,163
+Salem,OR,174
+Anchorage,AK,192
+Davenport,IL,111
+Peoria,IL,80
+Myrtle Beach,SC,119
+Montgomery,AL,67
+Salisbury,MD,132
+Gulfport,MS,75
+Tallahassee,FL,108
+Trenton,NJ,156
+Fayetteville,NC,84
+Hickory,NC,83
+Huntington,WV,65
+Eugene,OR,186
+Rockford,IL,86
+Savannah,GA,104
+Ann Arbor,MI,186
+Ocala,FL,88
+Kalamazoo,MI,96
+Naples,FL,207
+South Bend,IN,78
+Spartanburg,SC,85
+Evansville,IN,83
+Kingsport,TN,81
+Roanoke,VA,114
+Green Bay,WI,93
+Lincoln,NE,138
+Fort Collins,CO,205
+Utica,NY,82
+Columbus,GA,64
+Boulder,CO,284
+Erie,PA,87
+Fort Smith,AR,71
+Duluth,MN,146
+Atlantic City,NJ,111
+New London,CT,148
+San Luis Obispo,CA,356
+Gainesville,FL,111
+Santa Cruz,CA,535
+Clarksville,TN,92
+Cedar Rapids,IA,121
+Merced,CA,158
+Wilmington,NC,135
+Kennewick,WA,147
+Greeley,CO,173
+Lynchburg,VA,100
+Olympia,WA,172
+Amarillo,TX,81
+Binghamton,NY,74
+Hagerstown,MD,114
+Bremerton,WA,224
+Yakima,WA,135
+Crestview-Fort Walton Beach-Destin,FL,133
+Topeka,KS,79
+Macon,GA,64
+Champaign-Urbana,IL,86
+Tuscaloosa,AL,92
+College Station,TX,111
+Sioux Falls,SD,140
+Charleston,WV,73
+Appleton,WI,97
+Chico,CA,180
+Charlottesville,VA,176
+Claremont,NH,121
+Cape Cod,MA,272
+Burlington,VT,178
+Prescott,AZ,166
+Springfield,IL,73
+Tyler,TX,104
+Las Cruces,NM,92
+Fargo,ND,169
+Houma,LA,100
+Rochester,MN,155
+Florence,SC,75
+Medford,OR,173
+Lafayette-West Lafayette,IN,86
+Bellingham,WA,210
+Lake Havasu City,AZ,122
+Saginaw,MI,62
+Lake Charles,LA,105
+Johnson City,TN,86
+Elkhart,IN,92
+Yuma,AZ,103
+Racine,WI,89
+Athens,GA,96
+Torrington,CT,144
+St. Cloud,MN,101
+Hilton Head Island,SC,167
+Bloomington,IL,95
+Hilo,HI,265
+Panama City,FL,130
+Kingston,NY,138
+Daphne,AL,105
+Gainesville,GA,109
+Warner Robins,GA,72
+Blacksburg,VA,103
+Jacksonville,NC,90
+Redding,CA,164
+Monroe,LA,88
+Joplin,MO,65
+El Centro,CA,144
+Terre Haute,IN,60
+Muskegon,MI,87
+East Stroudsburg,PA,88
+Sioux City,IA,102
+Greenville,NC,78
+Waterloo,IA,100
+Oshkosh,WI,93
+Yuba City,CA,165
+Abilene,TX,77
+Columbia,MO,94
+Dover,DE,119
+Eau Claire,WI,115
+Janesville,WI,98
+Jackson,MI,82
+Punta Gorda,FL,125
+Bloomington,IN,109
+Pueblo,CO,122
+Billings,MT,173
+Bowling Green,KY,98
+Bend,OR,219
+Albany,GA,60
+Vineland,NJ,95
+Niles,MI,96
+Kahului,HI,485
+Ottawa,IL,76
+State College,PA,143
+Bangor,ME,104
+Alexandria,LA,96
+Hanford,CA,133
+Iowa City,IA,150
+Rocky Mount,NC,63
+Monroe,MI,95
+Burlington,NC,92
+Madera,CA,146
+Jefferson City,MO,86
+Chambersburg,PA,96
+Texarkana,TX,64
+Elizabethtown,KY,90
+Pottsville,PA,48
+Wheeling,OH,73
+Florence,AL,70
+Grand Junction,CO,151
+Concord,NH,140
+Santa Fe,NM,193
+Johnstown,PA,50
+Traverse City,MI,152
+Hattiesburg,MS,73
+Dalton,GA,80
+Greensboro,NC,86
+Homosassa Springs,FL,90
+Auburn,AL,90
+Valdosta,GA,72
+Coeur d'Alene,ID,145
+Springfield,OH,78
+St. George,UT,134
+Vero Beach,FL,127
+Odessa,TX,93
+Napa,CA,394
+Tupelo,MS,67
+Battle Creek,MI,79
+Jamestown,NY,63
+Eureka,CA,197
+Rapid City,SD,166
+Flagstaff,AZ,198
+Lumberton,NC,53
+Wausau,WI,82
+La Crosse,WI,82
+Lebanon,PA,113
+Idaho Falls,ID,88
+Sierra Vista,AZ,83
+Pittsfield,MA,138
+Lawton,OK,58
+Farmington,NM,113
+Jackson,TN,64
+Morgantown,WV,125
+Glens Falls,NY,122
+Winchester,VA,137
+St. Joseph,MO,68
+Altoona,PA,64
+New Bern,NC,90
+Carbondale,IL,67
+London,KY,75
+Harrisonburg,VA,124
+Mansfield,OH,70
+Weirton,OH,67
+Goldsboro,NC,57
+Augusta,ME,108
+Hammond,LA,96
+Jonesboro,AR,76
+Sherman,TX,81
+Staunton,VA,119
+Muncie,IN,58
+Mount Vernon,WA,215
+Albany,OR,160
+Watertown,NY,90
+Williamsport,PA,99
+Cleveland,TN,89
+Sheboygan,WI,80
+Bismarck,ND,199
+Owensboro,KY,91
+Dunn,NC,90
+Wooster,OH,100
+Morristown,TN,82
+Kankakee,IL,80
+Brunswick,GA,101
+Ogdensburg,NY,59
+Holland,MI,118
+Wenatchee,WA,212
+Lawrence,KS,122
+Decatur,IL,67
+Missoula,MT,207
+Salem,OH,71
+Bay City,MI,48
+Lewiston,ME,126
+Roseburg,OR,133
+Sumter,SC,72
+Show Low,AZ,116
+Danville,VA,62
+Lima,OH,65
+Cookeville,TN,84
+California-Lexington Park,MD,157
+Gadsden,AL,52
+Cumberland,MD,67
+Longview,WA,124
+Whitewater,WI,115
+Fond du Lac,WI,80
+Ithaca,NY,141
+Ashtabula,OH,64
+Gettysburg,PA,124
+Tullahoma,TN,81
+Richmond,KY,93
+Adrian,MI,98
+Twin Falls,ID,98
+Corning,NY,63
+Sebring,FL,82
+Truckee,CA,253
+Paducah,KY,75
+Shelby,NC,73
+Fairbanks,AK,130
+Ocean City,NJ,293
+Mankato,MN,132
+Rome,GA,76
+Hot Springs,AR,83
+Sunbury,PA,62
+Clarksburg,WV,81
+Dubuque,IA,94
+The Villages,FL,159
+Manhattan,KS,122
+Parkersburg,WV,74
+New Philadelphia,OH,82
+Orangeburg,SC,62
+Cheyenne,WY,168
+New Castle,PA,62
+Brainerd,MN,134
+Sevierville,TN,115
+Ames,IA,139
+Moses Lake,WA,108
+Elmira,NY,70
+Beaver Dam,WI,89
+Pinehurst-Southern Pines,NC,112
+Ukiah,CA,248
+Hermiston-Pendleton,OR,115
+Zanesville,OH,83
+Corvallis,OR,198
+Bloomsburg,PA,89
+Laurel,MS,74
+Russellville,AR,74
+Branson,MO,96
+Watertown,WI,107
+Midland,MI,87
+Opelousas,LA,75
+Pocatello,ID,120
+Kokomo,IN,63
+Grants Pass,OR,175
+Plattsburgh,NY,88
+Grand Island,NE,114
+DuBois,PA,50
+Great Falls,MT,140
+Wilson,NC,75
+Olean,NY,54
+Auburn,NY,78
+Portsmouth,OH,68
+Oak Harbor,WA,223
+Chillicothe,OH,82
+Hinesville,GA,78
+Somerset,PA,57
+Warsaw,IN,100
+Stillwater,OK,90
+Quincy,IL,81
+Keene,NH,122
+Sandusky,OH,88
+Searcy,AR,71
+Columbus,IN,97
+Roanoke Rapids,NC,52
+Centralia,WA,143
+Casper,WY,151
+Findlay,OH,88
+Wisconsin Rapids-Marshfield,WI,72
+Palatka,FL,71
+Seneca,SC,101
+Mount Airy,NC,45
+Glenwood Springs,CO,332
+Key West,FL,405
+Aberdeen,WA,115
+Gallup,NM,87
+Port Angeles,WA,176
+Greenfield Town,MA,129
+Muskogee,OK,58
+Frankfort,KY,103
+Owosso,MI,70
+Statesboro,GA,76
+Marion,IN,58
+Stevens Point,WI,91
+Shawnee,OK,77
+Richmond,IN,64
+Greeneville,TN,71
+Martinsville,VA,63
+Lake City,FL,78
+Kapaa,HI,421
+Marquette,MI,93
+LaGrange,GA,71
+Marion,OH,65
+Morehead City,NC,149
+Klamath Falls,OR,108
+Marinette,WI,67
+Farmington,MO,62
+Charleston,IL,57
+Clearlake,CA,180
+Hutchinson,KS,64
+Faribault,MN,152
+Elizabeth City,NC,83
+Ionia,MI,96
+Red Bluff,CA,146
+Hudson,NY,147
+Coos Bay,OR,140
+Walla Walla,WA,167
+Oneonta,NY,84
+Fort Madison,IA,73
+Baraboo,WI,99
+Marietta,OH,102
+Salina,KS,90
+Rutland,VT,88
+Sturgis,MI,76
+Rio Grande City,TX,50
+Fremont,OH,70
+Mount Vernon,OH,100
+Lewiston,ID,117
+Shelton,WA,171
+Albemarle,NC,80
+Enid,OK,78
+Georgetown,SC,129
+Laconia,NH,155
+Batavia,NY,80
+Oxford,NC,98
+Columbus,MS,66
+Barre,VT,119
+Kinston,NC,54
+Sterling,IL,62
+Dublin,GA,58
+Vicksburg,MS,69
+Point Pleasant,WV,65
+Sanford,NC,82
+Fergus Falls,MN,100
+Tiffin,OH,67
+Crossville,TN,85
+Picayune,MS,72
+Gloversville,NY,84
+Gaffney,SC,57
+Carson City,NV,181
+Calhoun,GA,82
+Milledgeville,GA,62
+Waycross,GA,54
+Oil City,PA,55
+Jasper,IN,83
+Ontario,OR,97
+Payson,AZ,147
+Danville,KY,80
+Ashland,OH,87
+Natchez,MS,80
+Greenville,OH,70
+Galesburg,IL,60
+Warrensburg,MO,79
+Kearney,NE,78
+Fort Polk South,LA,84
+Athens,TN,75
+Edwards,CO,426
+Fernley,NV,151
+Winona,MN,96
+Durango,CO,233
+Boone,NC,140
+Bartlesville,OK,66
+Jacksonville,TX,65
+Elko,NV,143
+Rexburg,ID,102
+St. Marys,GA,97
+Amsterdam,NY,72
+Paris,TX,59
+Kerrville,TX,112
+New Castle,IN,61
+Sidney,OH,83
+Cortland,NY,81
+Clinton,IA,71
+Del Rio,TX,76
+Norfolk,NE,113
+Starkville,MS,88
+Burlington,IA,71
+Cadillac,MI,68
+Ardmore,OK,71
+Kendallville,IN,82
+Nogales,AZ,81
+Oxford,MS,110
+Bogalusa,LA,62
+Plymouth,IN,83
+Gardnerville Ranchos,NV,212
+Tahlequah,OK,72
+Madisonville,KY,69
+Ruston,LA,75
+Hillsdale,MI,96
+Ponca City,OK,55
+Red Wing,MN,146
+Shawano,WI,73
+Cedar City,UT,96
+Bedford,IN,67
+Gillette,WY,150
+Newport,OR,184
+Wapakoneta,OH,82
+Huntingdon,PA,79
+Bellefontaine,OH,85
+McAlester,OK,69
+Blackfoot,ID,100
+Moultrie,GA,56
+Henderson,NC,66
+Coldwater,MI,74
+Harrison,AR,73
+Shelbyville,TN,101
+Duncan,OK,51
+Marion,NC,80
+Thomasville,GA,74
+Mount Sterling,KY,77
+Ottumwa,IA,70
+Menomonie,WI,84
+Bucyrus,OH,66
+Bradford,PA,48
+Cornelia,GA,92
+Burley,ID,88
+Greenwood,MS,41
+Big Rapids,MI,74
+Muscatine,IA,95
+Durant,OK,79
+Seymour,IN,81
+Douglas,GA,60
+Willmar,MN,104
+Auburn,IN,83
+Paragould,AR,71
+Lawrenceburg,TN,62
+Mountain Home,AR,79
+Cedartown,GA,59
+Port Clinton,OH,108
+Montrose,CO,143
+Ellensburg,WA,183
+Jacksonville,IL,72
+Sandpoint,ID,154
+Celina,OH,96
+Garden City,KS,121
+Marshalltown,IA,52
+Cullowhee,NC,123
+Riverton,WY,138
+Tifton,GA,75
+Urbana,OH,83
+Cambridge,OH,80
+Okeechobee,FL,75
+McMinnville,TN,70
+Natchitoches,LA,93
+Berlin,NH,79
+Lock Haven,PA,90
+Sikeston,MO,74
+Austin,MN,83
+Clewiston,FL,83
+Pittsburg,KS,53
+Defiance,OH,69
+Scottsbluff,NE,97
+Logansport,IN,60
+Pontiac,IL,65
+Mount Vernon,IL,52
+Union City,TN,46
+Vincennes,IN,59
+Dyersburg,TN,50
+Kill Devil Hills,NC,159
+Crawfordsville,IN,72
+Brownwood,TX,67
+Fort Dodge,IA,77
+Americus,GA,49
+Easton,MD,163
+North Platte,NE,97
+Ada,OK,76
+Safford,AZ,92
+Murray,KY,82
+Huntington,IN,60
+Canton,IL,67
+Corinth,MS,63
+Astoria,OR,178
+Peru,IN,55
+Coshocton,OH,66
+Newton,IA,100
+Fremont,NE,105
+Hutchinson,MN,97
+Batesville,AR,63
+Owatonna,MN,103
+Arkansas City-Winfield,KS,49
+Laramie,WY,167
+Plainview,TX,48
+Big Spring,TX,50
+Alexandria,MN,155
+Seneca Falls,NY,76
+Martin,TN,52
+Susanville,CA,118
+Arcadia,FL,88
+Taylorville,IL,67
+Decatur,IN,70
+Junction City,KS,95
+Effingham,IL,94
+Valley,AL,42
+Butte,MT,110
+Angola,IN,103
+Cleveland,MS,67
+Dodge City,KS,90
+Brenham,TX,108
+Jackson,OH,63
+Frankfort,IN,66
+Malvern,AR,67
+Wabash,IN,62
+Cambridge,MD,96
+Macomb,IL,68
+Vernal,UT,113
+Kingsville,TX,64
+Madison,IN,74
+Paris,TN,59
+Kennett,MO,56
+Beeville,TX,54
+Miami,OK,54
+Dayton,TN,80
+Washington,IN,76
+Juneau,AK,219
+Lewisburg,TN,101
+Iron Mountain,MI,65
+Jesup,GA,68
+Silver City,NM,94
+McPherson,KS,89
+Sheridan,WY,160
+Washington Court House,OH,74
+Van Wert,OH,60
+Crescent City,CA,136
+North Vernon,IN,73
+Hays,KS,90
+Bainbridge,GA,65
+Wauchula,FL,57
+Hailey,ID,298
+Great Bend,KS,71
+Thomaston,GA,49
+Mountain Home,ID,94
+Altus,OK,55
+Uvalde,TX,83
+Lexington,NE,79
+Boone,IA,93
+Toccoa,GA,64
+Clarksdale,MS,49
+Ottawa,KS,76
+Marshall,MN,58
+La Grande,OR,110
+Greensburg,IN,86
+Moberly,MO,62
+The Dalles,OR,155
+Campbellsville,KY,76
+Connersville,IN,53
+Dickinson,ND,156
+Spearfish,SD,160
+Heber,UT,219
+Steamboat Springs,CO,321
+Liberal,KS,81
+Sterling,CO,107
+Oskaloosa,IA,86
+Brookings,OR,192
+Hood River,OR,246
+Beatrice,NE,84
+Raymondville,TX,56
+Elk City,OK,69
+Grenada,MS,60
+Dumas,TX,79
+Evanston,WY,116
+Prineville,OR,165
+Storm Lake,IA,79
+Woodward,OK,77
+Hereford,TX,68
+Othello,WA,110
+Atchison,KS,58
+Spencer,IA,94
+Vineyard Haven,MA,474
+Winnemucca,NV,135
+Sweetwater,TX,43
+Andrews,TX,98
+Zapata,TX,72
+Lamesa,TX,43
+Pecos,TX,50
+Ketchikan,AK,180
+Montgomery County,MD,266
+Newark,NJ,214
+Northern Virginia,VA,291
