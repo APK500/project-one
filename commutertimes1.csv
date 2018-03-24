@@ -1,0 +1,965 @@
+﻿ID,Country,GeoID,City,State,Area Type,Minutes,Margin of Error
+0100000US,United States,310M300US10100,Aberdeen,SD,Micro,13.2,0.5
+0100000US,United States,310M300US10140,Aberdeen,WA,Micro,24.8,1
+0100000US,United States,310M300US10180,Abilene,TX,Metro,17.4,0.5
+0100000US,United States,310M300US10220,Ada,OK,Micro,17.3,0.6
+0100000US,United States,310M300US10300,Adrian,MI,Micro,26.5,0.7
+0100000US,United States,310M300US10420,Akron,OH,Metro,23.4,0.3
+0100000US,United States,310M300US10460,Alamogordo,NM,Micro,18.9,0.9
+0100000US,United States,310M300US10500,Albany,GA,Metro,20.6,0.5
+0100000US,United States,310M300US10540,Albany,OR,Metro,22.3,0.7
+0100000US,United States,310M300US10580,Albany-Schenectady-Troy,NY,Metro,23,0.2
+0100000US,United States,310M300US10620,Albemarle,NC,Micro,25.2,0.9
+0100000US,United States,310M300US10660,Albert Lea,MN,Micro,18.9,0.8
+0100000US,United States,310M300US10700,Albertville,AL,Micro,23.9,0.9
+0100000US,United States,310M300US10740,Albuquerque,NM,Metro,23.4,0.3
+0100000US,United States,310M300US10760,Alexander City,AL,Micro,24.5,1.1
+0100000US,United States,310M300US10780,Alexandria,LA,Metro,24.5,0.9
+0100000US,United States,310M300US10820,Alexandria,MN,Micro,17.9,0.9
+0100000US,United States,310M300US10860,Alice,TX,Micro,27.5,1.5
+0100000US,United States,310M300US10900,Allentown-Bethlehem-Easton,PA,Metro,27.9,0.3
+0100000US,United States,310M300US10940,Alma,MI,Micro,22.8,0.9
+0100000US,United States,310M300US10980,Alpena,MI,Micro,17.7,1.1
+0100000US,United States,310M300US11020,Altoona,PA,Metro,19.5,0.5
+0100000US,United States,310M300US11060,Altus,OK,Micro,14.6,0.9
+0100000US,United States,310M300US11100,Amarillo,TX,Metro,18.7,0.4
+0100000US,United States,310M300US11140,Americus,GA,Micro,20.9,1.2
+0100000US,United States,310M300US11180,Ames,IA,Metro,17.5,0.7
+0100000US,United States,310M300US11220,Amsterdam,NY,Micro,23.9,0.8
+0100000US,United States,310M300US11260,Anchorage,AK,Metro,22.1,0.4
+0100000US,United States,310M300US11380,Andrews,TX,Micro,18.5,2.1
+0100000US,United States,310M300US11420,Angola,IN,Micro,22.1,1.2
+0100000US,United States,310M300US11460,Ann Arbor,MI,Metro,23.4,0.3
+0100000US,United States,310M300US11500,Anniston-Oxford-Jacksonville,AL,Metro,24.6,0.9
+0100000US,United States,310M300US11540,Appleton,WI,Metro,19.7,0.3
+0100000US,United States,310M300US11580,Arcadia,FL,Micro,25.2,2.1
+0100000US,United States,310M300US11620,Ardmore,OK,Micro,19.4,0.9
+0100000US,United States,310M300US11660,Arkadelphia,AR,Micro,21.6,1.6
+0100000US,United States,310M300US11680,Arkansas City-Winfield,KS,Micro,18.4,1
+0100000US,United States,310M300US11700,Asheville,NC,Metro,21.3,0.4
+0100000US,United States,310M300US11740,Ashland,OH,Micro,23.9,1.1
+0100000US,United States,310M300US11780,Ashtabula,OH,Micro,25.3,0.9
+0100000US,United States,310M300US11820,Astoria,OR,Micro,18.8,1.1
+0100000US,United States,310M300US11860,Atchison,KS,Micro,20.8,1.9
+0100000US,United States,310M300US11900,Athens,OH,Micro,20.1,0.9
+0100000US,United States,310M300US11940,Athens,TN,Micro,23.5,1.3
+0100000US,United States,310M300US11980,Athens,TX,Micro,29.6,1.3
+0100000US,United States,310M300US12020,Athens-Clarke County,GA,Metro,22.1,0.6
+0100000US,United States,310M300US12060,Atlanta-Sandy Springs-Roswell,GA,Metro,31,0.1
+0100000US,United States,310M300US12100,Atlantic City-Hammonton,NJ,Metro,23.9,0.5
+0100000US,United States,310M300US12120,Atmore,AL,Micro,23.1,1.9
+0100000US,United States,310M300US12140,Auburn,IN,Micro,21,1
+0100000US,United States,310M300US12180,Auburn,NY,Micro,22.9,0.7
+0100000US,United States,310M300US12220,Auburn-Opelika,AL,Metro,22.1,0.6
+0100000US,United States,310M300US12260,Augusta-Richmond County,GA,Metro,23.6,0.3
+0100000US,United States,310M300US12300,Augusta-Waterville,ME,Micro,23.4,0.5
+0100000US,United States,310M300US12380,Austin,MN,Micro,17.4,0.9
+0100000US,United States,310M300US12420,Austin-Round Rock,TX,Metro,26.4,0.2
+0100000US,United States,310M300US12460,Bainbridge,GA,Micro,23.7,1.3
+0100000US,United States,310M300US12540,Bakersfield,CA,Metro,23.5,0.4
+0100000US,United States,310M300US12580,Baltimore-Columbia-Towson,MD,Metro,30.5,0.2
+0100000US,United States,310M300US12620,Bangor,ME,Metro,22.2,0.7
+0100000US,United States,310M300US12660,Baraboo,WI,Micro,21.3,0.7
+0100000US,United States,310M300US12680,Bardstown,KY,Micro,26.3,1.2
+0100000US,United States,310M300US12700,Barnstable Town,MA,Metro,23.3,0.6
+0100000US,United States,310M300US12740,Barre,VT,Micro,23,0.8
+0100000US,United States,310M300US12780,Bartlesville,OK,Micro,17.4,0.6
+0100000US,United States,310M300US12820,Bastrop,LA,Micro,24.5,1.5
+0100000US,United States,310M300US12860,Batavia,NY,Micro,22.2,0.6
+0100000US,United States,310M300US12900,Batesville,AR,Micro,19,1.2
+0100000US,United States,310M300US12940,Baton Rouge,LA,Metro,26.6,0.3
+0100000US,United States,310M300US12980,Battle Creek,MI,Metro,20.3,0.5
+0100000US,United States,310M300US13020,Bay City,MI,Metro,22.2,0.7
+0100000US,United States,310M300US13060,Bay City,TX,Micro,23.9,2.5
+0100000US,United States,310M300US13100,Beatrice,NE,Micro,19.5,0.8
+0100000US,United States,310M300US13140,Beaumont-Port Arthur,TX,Metro,21.9,0.4
+0100000US,United States,310M300US13180,Beaver Dam,WI,Micro,23,0.7
+0100000US,United States,310M300US13220,Beckley,WV,Metro,25.7,1
+0100000US,United States,310M300US13260,Bedford,IN,Micro,24.5,1.4
+0100000US,United States,310M300US13300,Beeville,TX,Micro,21.5,1.8
+0100000US,United States,310M300US13340,Bellefontaine,OH,Micro,22.2,0.9
+0100000US,United States,310M300US13380,Bellingham,WA,Metro,20.8,0.5
+0100000US,United States,310M300US13420,Bemidji,MN,Micro,19.6,0.8
+0100000US,United States,310M300US13460,Bend-Redmond,OR,Metro,18.6,0.6
+0100000US,United States,310M300US13500,Bennettsville,SC,Micro,25.8,1.8
+0100000US,United States,310M300US13540,Bennington,VT,Micro,19,0.9
+0100000US,United States,310M300US13620,Berlin,NH,Micro,21.5,0.7
+0100000US,United States,310M300US13660,Big Rapids,MI,Micro,23.9,1.1
+0100000US,United States,310M300US13700,Big Spring,TX,Micro,18.4,1.3
+0100000US,United States,310M300US13720,Big Stone Gap,VA,Micro,23.6,1.1
+0100000US,United States,310M300US13740,Billings,MT,Metro,19.5,0.5
+0100000US,United States,310M300US13780,Binghamton,NY,Metro,20.4,0.5
+0100000US,United States,310M300US13820,Birmingham-Hoover,AL,Metro,26.1,0.2
+0100000US,United States,310M300US13900,Bismarck,ND,Metro,18.5,0.6
+0100000US,United States,310M300US13940,Blackfoot,ID,Micro,21.7,1.3
+0100000US,United States,310M300US13980,Blacksburg-Christiansburg-Radford,VA,Metro,21.1,0.5
+0100000US,United States,310M300US14010,Bloomington,IL,Metro,18.3,0.4
+0100000US,United States,310M300US14020,Bloomington,IN,Metro,20,0.5
+0100000US,United States,310M300US14100,Bloomsburg-Berwick,PA,Metro,21.8,0.6
+0100000US,United States,310M300US14140,Bluefield,WV,Micro,21.6,0.8
+0100000US,United States,310M300US14180,Blytheville,AR,Micro,18.5,1
+0100000US,United States,310M300US14220,Bogalusa,LA,Micro,33.1,2.1
+0100000US,United States,310M300US14260,Boise City,ID,Metro,21.7,0.3
+0100000US,United States,310M300US14300,Bonham,TX,Micro,29.6,1.5
+0100000US,United States,310M300US14340,Boone,IA,Micro,21.1,1
+0100000US,United States,310M300US14380,Boone,NC,Micro,19.8,1
+0100000US,United States,310M300US14420,Borger,TX,Micro,19.1,1.8
+0100000US,United States,310M300US14460,Boston-Cambridge-Newton,MA,Metro,30.6,0.1
+0100000US,United States,314M300US1446014454,Boston,MA,Metro,32,0.2
+0100000US,United States,314M300US1446015764,Cambridge-Newton-Framingham,MA,Metro,29.7,0.1
+0100000US,United States,314M300US1446040484,Rockingham County-Strafford County,NH,Metro,29.2,0.5
+0100000US,United States,310M300US14500,Boulder,CO,Metro,22.4,0.4
+0100000US,United States,310M300US14540,Bowling Green,KY,Metro,21.6,0.6
+0100000US,United States,310M300US14580,Bozeman,MT,Micro,17.6,0.7
+0100000US,United States,310M300US14620,Bradford,PA,Micro,21,0.9
+0100000US,United States,310M300US14660,Brainerd,MN,Micro,22,0.6
+0100000US,United States,310M300US14700,Branson,MO,Micro,23.7,1.3
+0100000US,United States,310M300US14720,Breckenridge,CO,Micro,16.6,1.4
+0100000US,United States,310M300US14740,Bremerton-Silverdale,WA,Metro,30.3,0.6
+0100000US,United States,310M300US14780,Brenham,TX,Micro,21.1,1.5
+0100000US,United States,310M300US14820,Brevard,NC,Micro,25.5,2.5
+0100000US,United States,310M300US14860,Bridgeport-Stamford-Norwalk,CT,Metro,29.7,0.3
+0100000US,United States,310M300US15020,Brookhaven,MS,Micro,31.1,2.7
+0100000US,United States,310M300US15060,Brookings,OR,Micro,14.1,1.3
+0100000US,United States,310M300US15100,Brookings,SD,Micro,14.6,0.9
+0100000US,United States,310M300US15140,Brownsville,TN,Micro,23.3,1.7
+0100000US,United States,310M300US15180,Brownsville-Harlingen,TX,Metro,20.1,0.3
+0100000US,United States,310M300US15220,Brownwood,TX,Micro,17.2,1
+0100000US,United States,310M300US15260,Brunswick,GA,Metro,21.6,0.7
+0100000US,United States,310M300US15340,Bucyrus,OH,Micro,21.1,1.1
+0100000US,United States,310M300US15380,Buffalo-Cheektowaga-Niagara Falls,NY,Metro,21.3,0.2
+0100000US,United States,310M300US15420,Burley,ID,Micro,16.1,0.8
+0100000US,United States,310M300US15460,Burlington,IA,Micro,17.5,0.8
+0100000US,United States,310M300US15500,Burlington,NC,Metro,23.5,0.6
+0100000US,United States,310M300US15540,Burlington-South Burlington,VT,Metro,22.3,0.4
+0100000US,United States,310M300US15580,Butte-Silver Bow,MT,Micro,15.4,1
+0100000US,United States,310M300US15620,Cadillac,MI,Micro,21,0.5
+0100000US,United States,310M300US15660,Calhoun,GA,Micro,23,1.1
+0100000US,United States,310M300US15680,California-Lexington Park,MD,Metro,30.4,1.1
+0100000US,United States,310M300US15700,Cambridge,MD,Micro,25.4,1.2
+0100000US,United States,310M300US15740,Cambridge,OH,Micro,23.8,1
+0100000US,United States,310M300US15780,Camden,AR,Micro,24.1,2.3
+0100000US,United States,310M300US15820,Campbellsville,KY,Micro,18.9,1.5
+0100000US,United States,310M300US15860,Cañon City,CO,Micro,23.2,1.3
+0100000US,United States,310M300US15900,Canton,IL,Micro,25.4,0.9
+0100000US,United States,310M300US15940,Canton-Massillon,OH,Metro,22.3,0.3
+0100000US,United States,310M300US15980,Cape Coral-Fort Myers,FL,Metro,27.3,0.4
+0100000US,United States,310M300US16020,Cape Girardeau,MO,Metro,20.7,0.6
+0100000US,United States,310M300US16060,Carbondale-Marion,IL,Metro,20.2,0.6
+0100000US,United States,310M300US16100,Carlsbad-Artesia,NM,Micro,16.9,0.8
+0100000US,United States,310M300US16140,Carroll,IA,Micro,14,0.7
+0100000US,United States,310M300US16180,Carson City,NV,Metro,17.8,0.8
+0100000US,United States,310M300US16220,Casper,WY,Metro,17.2,0.5
+0100000US,United States,310M300US16260,Cedar City,UT,Micro,17.3,1.5
+0100000US,United States,310M300US16300,Cedar Rapids,IA,Metro,19.7,0.4
+0100000US,United States,310M300US16340,Cedartown,GA,Micro,26.5,2.2
+0100000US,United States,310M300US16380,Celina,OH,Micro,17.9,0.7
+0100000US,United States,310M300US16420,Central City,KY,Micro,22.4,1.5
+0100000US,United States,310M300US16460,Centralia,IL,Micro,20.8,0.8
+0100000US,United States,310M300US16500,Centralia,WA,Micro,26.4,1
+0100000US,United States,310M300US16540,Chambersburg-Waynesboro,PA,Metro,24,0.7
+0100000US,United States,310M300US16580,Champaign-Urbana,IL,Metro,18.6,0.4
+0100000US,United States,310M300US16620,Charleston,WV,Metro,22.5,0.5
+0100000US,United States,310M300US16660,Charleston-Mattoon,IL,Micro,17.2,0.7
+0100000US,United States,310M300US16700,Charleston-North Charleston,SC,Metro,25.1,0.2
+0100000US,United States,310M300US16740,Charlotte-Concord-Gastonia,NC,Metro,26.3,0.2
+0100000US,United States,310M300US16820,Charlottesville,VA,Metro,24.3,0.4
+0100000US,United States,310M300US16860,Chattanooga,TN,Metro,23.3,0.3
+0100000US,United States,310M300US16940,Cheyenne,WY,Metro,16.1,0.7
+0100000US,United States,310M300US16980,Chicago-Naperville-Elgin,IL,Metro,31.3,0.1
+0100000US,United States,314M300US1698016974,Chicago-Naperville-Arlington Heights,IL,Metro,32.2,0.1
+0100000US,United States,314M300US1698020994,Elgin,IL,Metro,28.6,0.3
+0100000US,United States,314M300US1698023844,Gary,IN,Metro,28,0.3
+0100000US,United States,314M300US1698029404,Lake County-Kenosha County,IL,Metro,29.1,0.2
+0100000US,United States,310M300US17020,Chico,CA,Metro,19.8,0.6
+0100000US,United States,310M300US17060,Chillicothe,OH,Micro,26.5,1.1
+0100000US,United States,310M300US17140,Cincinnati,OH,Metro,24.6,0.1
+0100000US,United States,310M300US17200,Claremont-Lebanon,NH,Micro,23.1,0.4
+0100000US,United States,310M300US17220,Clarksburg,WV,Micro,24.1,0.7
+0100000US,United States,310M300US17260,Clarksdale,MS,Micro,21.5,2
+0100000US,United States,310M300US17300,Clarksville,TN,Metro,22.6,0.4
+0100000US,United States,310M300US17340,Clearlake,CA,Micro,28.8,1.6
+0100000US,United States,310M300US17380,Cleveland,MS,Micro,17.6,1.3
+0100000US,United States,310M300US17420,Cleveland,TN,Metro,22.6,0.8
+0100000US,United States,310M300US17460,Cleveland-Elyria,OH,Metro,24.6,0.1
+0100000US,United States,310M300US17500,Clewiston,FL,Micro,28.5,2.8
+0100000US,United States,310M300US17540,Clinton,IA,Micro,19.5,0.8
+0100000US,United States,310M300US17580,Clovis,NM,Micro,14,0.6
+0100000US,United States,310M300US17660,Coeur d'Alene,ID,Metro,21.2,0.6
+0100000US,United States,310M300US17700,Coffeyville,KS,Micro,17,1
+0100000US,United States,310M300US17740,Coldwater,MI,Micro,22.9,0.8
+0100000US,United States,310M300US17780,College Station-Bryan,TX,Metro,18.4,0.4
+0100000US,United States,310M300US17820,Colorado Springs,CO,Metro,22.7,0.2
+0100000US,United States,310M300US17860,Columbia,MO,Metro,17.7,0.4
+0100000US,United States,310M300US17900,Columbia,SC,Metro,23.6,0.2
+0100000US,United States,310M300US17980,Columbus,GA,Metro,21.4,0.4
+0100000US,United States,310M300US18020,Columbus,IN,Metro,19.1,0.6
+0100000US,United States,310M300US18060,Columbus,MS,Micro,20.9,1.4
+0100000US,United States,310M300US18100,Columbus,NE,Micro,14.1,0.7
+0100000US,United States,310M300US18140,Columbus,OH,Metro,23.5,0.1
+0100000US,United States,310M300US18180,Concord,NH,Micro,26.3,0.5
+0100000US,United States,310M300US18220,Connersville,IN,Micro,25.8,1.7
+0100000US,United States,310M300US18260,Cookeville,TN,Micro,24.8,0.7
+0100000US,United States,310M300US18300,Coos Bay,OR,Micro,18.7,1.3
+0100000US,United States,310M300US18380,Cordele,GA,Micro,20,2.5
+0100000US,United States,310M300US18420,Corinth,MS,Micro,21.4,1.5
+0100000US,United States,310M300US18460,Cornelia,GA,Micro,25.7,1.4
+0100000US,United States,310M300US18500,Corning,NY,Micro,21.8,0.5
+0100000US,United States,310M300US18580,Corpus Christi,TX,Metro,20.4,0.3
+0100000US,United States,310M300US18620,Corsicana,TX,Micro,25,1.3
+0100000US,United States,310M300US18660,Cortland,NY,Micro,20.7,0.7
+0100000US,United States,310M300US18700,Corvallis,OR,Metro,19.5,0.8
+0100000US,United States,310M300US18740,Coshocton,OH,Micro,24,1.3
+0100000US,United States,310M300US18780,Craig,CO,Micro,20.6,1.9
+0100000US,United States,310M300US18820,Crawfordsville,IN,Micro,21.7,1
+0100000US,United States,310M300US18860,Crescent City,CA,Micro,14.3,1.4
+0100000US,United States,310M300US18880,Crestview-Fort Walton Beach-Destin,FL,Metro,24.2,0.5
+0100000US,United States,310M300US18900,Crossville,TN,Micro,22.4,0.9
+0100000US,United States,310M300US18980,Cullman,AL,Micro,26.5,1
+0100000US,United States,310M300US19000,Cullowhee,NC,Micro,19.3,1.2
+0100000US,United States,310M300US19060,Cumberland,MD,Metro,22.6,0.7
+0100000US,United States,310M300US19100,Dallas-Fort Worth-Arlington,TX,Metro,27.8,0.1
+0100000US,United States,314M300US1910019124,Dallas-Plano-Irving,TX,Metro,27.9,0.1
+0100000US,United States,314M300US1910023104,Fort Worth-Arlington,TX,Metro,27.6,0.2
+0100000US,United States,310M300US19140,Dalton,GA,Metro,22.2,0.5
+0100000US,United States,310M300US19180,Danville,IL,Metro,20,0.6
+0100000US,United States,310M300US19220,Danville,KY,Micro,23.6,1
+0100000US,United States,310M300US19260,Danville,VA,Micro,23.3,0.6
+0100000US,United States,310M300US19300,Daphne-Fairhope-Foley,AL,Metro,27.2,0.8
+0100000US,United States,310M300US19340,Davenport-Moline-Rock Island,IA,Metro,19.8,0.3
+0100000US,United States,310M300US19380,Dayton,OH,Metro,21.2,0.2
+0100000US,United States,310M300US19420,Dayton,TN,Micro,22.1,1.5
+0100000US,United States,310M300US19460,Decatur,AL,Metro,25,0.6
+0100000US,United States,310M300US19500,Decatur,IL,Metro,18.3,0.5
+0100000US,United States,310M300US19540,Decatur,IN,Micro,21.6,1.3
+0100000US,United States,310M300US19580,Defiance,OH,Micro,20.3,0.9
+0100000US,United States,310M300US19620,Del Rio,TX,Micro,19.7,2
+0100000US,United States,310M300US19660,Deltona-Daytona Beach-Ormond Beach,FL,Metro,25.4,0.4
+0100000US,United States,310M300US19700,Deming,NM,Micro,19.9,2.2
+0100000US,United States,310M300US19740,Denver-Aurora-Lakewood,CO,Metro,27.3,0.1
+0100000US,United States,310M300US19760,DeRidder,LA,Micro,31.2,2
+0100000US,United States,310M300US19780,Des Moines-West Des Moines,IA,Metro,20.1,0.2
+0100000US,United States,310M300US19820,Detroit-Warren-Dearborn,MI,Metro,26.7,0.1
+0100000US,United States,314M300US1982019804,Detroit-Dearborn-Livonia,MI,Metro,25.2,0.2
+0100000US,United States,314M300US1982047664,Warren-Troy-Farmington Hills,MI,Metro,27.6,0.1
+0100000US,United States,310M300US19860,Dickinson,ND,Micro,18.3,1.3
+0100000US,United States,310M300US19940,Dixon,IL,Micro,22.3,1.1
+0100000US,United States,310M300US19980,Dodge City,KS,Micro,14.1,0.9
+0100000US,United States,310M300US20020,Dothan,AL,Metro,23,0.4
+0100000US,United States,310M300US20060,Douglas,GA,Micro,19.6,1
+0100000US,United States,310M300US20100,Dover,DE,Metro,26.5,0.6
+0100000US,United States,310M300US20140,Dublin,GA,Micro,23.7,1.1
+0100000US,United States,310M300US20180,DuBois,PA,Micro,24.5,0.9
+0100000US,United States,310M300US20220,Dubuque,IA,Metro,16.5,0.5
+0100000US,United States,310M300US20260,Duluth,MN,Metro,20.1,0.3
+0100000US,United States,310M300US20300,Dumas,TX,Micro,16.9,1.4
+0100000US,United States,310M300US20340,Duncan,OK,Micro,20.1,0.9
+0100000US,United States,310M300US20380,Dunn,NC,Micro,29,0.6
+0100000US,United States,310M300US20420,Durango,CO,Micro,21.1,0.8
+0100000US,United States,310M300US20460,Durant,OK,Micro,20.8,0.8
+0100000US,United States,310M300US20500,Durham-Chapel Hill,NC,Metro,23.8,0.3
+0100000US,United States,310M300US20540,Dyersburg,TN,Micro,20,1.1
+0100000US,United States,310M300US20580,Eagle Pass,TX,Micro,21.2,1.4
+0100000US,United States,310M300US20660,Easton,MD,Micro,26.6,1.5
+0100000US,United States,310M300US20700,East Stroudsburg,PA,Metro,38.6,1.3
+0100000US,United States,310M300US20740,Eau Claire,WI,Metro,19.5,0.5
+0100000US,United States,310M300US20780,Edwards,CO,Micro,20.3,0.8
+0100000US,United States,310M300US20820,Effingham,IL,Micro,17.6,0.7
+0100000US,United States,310M300US20900,El Campo,TX,Micro,22.6,1.4
+0100000US,United States,310M300US20940,El Centro,CA,Metro,20.9,0.7
+0100000US,United States,310M300US20980,El Dorado,AR,Micro,18.6,1.1
+0100000US,United States,310M300US21020,Elizabeth City,NC,Micro,28.5,1.2
+0100000US,United States,310M300US21060,Elizabethtown-Fort Knox,KY,Metro,24.1,0.7
+0100000US,United States,310M300US21120,Elk City,OK,Micro,17.2,2.4
+0100000US,United States,310M300US21140,Elkhart-Goshen,IN,Metro,19.6,0.4
+0100000US,United States,310M300US21180,Elkins,WV,Micro,21.2,1.6
+0100000US,United States,310M300US21220,Elko,NV,Micro,30,1.6
+0100000US,United States,310M300US21260,Ellensburg,WA,Micro,20.8,1.4
+0100000US,United States,310M300US21300,Elmira,NY,Metro,19.7,0.6
+0100000US,United States,310M300US21340,El Paso,TX,Metro,23.3,0.3
+0100000US,United States,310M300US21380,Emporia,KS,Micro,16.5,1.1
+0100000US,United States,310M300US21420,Enid,OK,Metro,17.2,0.8
+0100000US,United States,310M300US21460,Enterprise,AL,Micro,21.1,0.7
+0100000US,United States,310M300US21500,Erie,PA,Metro,19.2,0.3
+0100000US,United States,310M300US21540,Escanaba,MI,Micro,19.5,1.2
+0100000US,United States,310M300US21580,Española,NM,Micro,27.7,1.4
+0100000US,United States,310M300US21640,Eufaula,AL,Micro,23.6,1.5
+0100000US,United States,310M300US21660,Eugene,OR,Metro,19.9,0.4
+0100000US,United States,310M300US21700,Eureka-Arcata-Fortuna,CA,Micro,18.2,0.6
+0100000US,United States,310M300US21740,Evanston,WY,Micro,20.4,2.4
+0100000US,United States,310M300US21780,Evansville,IN,Metro,20.7,0.3
+0100000US,United States,310M300US21820,Fairbanks,AK,Metro,19,0.9
+0100000US,United States,310M300US21840,Fairfield,IA,Micro,14.7,1.2
+0100000US,United States,310M300US21860,Fairmont,MN,Micro,17.1,0.8
+0100000US,United States,310M300US21900,Fairmont,WV,Micro,23.8,0.8
+0100000US,United States,310M300US21980,Fallon,NV,Micro,20.1,1.5
+0100000US,United States,310M300US22020,Fargo,ND,Metro,16.9,0.4
+0100000US,United States,310M300US22060,Faribault-Northfield,MN,Micro,22.2,0.7
+0100000US,United States,310M300US22100,Farmington,MO,Micro,24.5,1.3
+0100000US,United States,310M300US22140,Farmington,NM,Metro,23.6,0.7
+0100000US,United States,310M300US22180,Fayetteville,NC,Metro,21.4,0.3
+0100000US,United States,310M300US22220,Fayetteville-Springdale-Rogers,AR,Metro,21.2,0.3
+0100000US,United States,310M300US22260,Fergus Falls,MN,Micro,21.3,0.5
+0100000US,United States,310M300US22280,Fernley,NV,Micro,31.4,1.6
+0100000US,United States,310M300US22300,Findlay,OH,Micro,17.1,0.8
+0100000US,United States,310M300US22340,Fitzgerald,GA,Micro,16.9,1.1
+0100000US,United States,310M300US22380,Flagstaff,AZ,Metro,18.1,0.6
+0100000US,United States,310M300US22420,Flint,MI,Metro,25.9,0.4
+0100000US,United States,310M300US22500,Florence,SC,Metro,23.1,0.6
+0100000US,United States,310M300US22520,Florence-Muscle Shoals,AL,Metro,24.3,0.6
+0100000US,United States,310M300US22540,Fond du Lac,WI,Metro,20.3,0.6
+0100000US,United States,310M300US22580,Forest City,NC,Micro,24.9,1.2
+0100000US,United States,310M300US22620,Forrest City,AR,Micro,19.5,1.3
+0100000US,United States,310M300US22660,Fort Collins,CO,Metro,22.4,0.4
+0100000US,United States,310M300US22700,Fort Dodge,IA,Micro,16.1,0.7
+0100000US,United States,310M300US22780,Fort Leonard Wood,MO,Micro,19.1,0.9
+0100000US,United States,310M300US22800,Fort Madison-Keokuk,IA,Micro,20.2,0.7
+0100000US,United States,310M300US22820,Fort Morgan,CO,Micro,16.8,1
+0100000US,United States,310M300US22840,Fort Payne,AL,Micro,23,0.8
+0100000US,United States,310M300US22860,Fort Polk South,LA,Micro,21.5,1.1
+0100000US,United States,310M300US22900,Fort Smith,AR,Metro,21.3,0.5
+0100000US,United States,310M300US23060,Fort Wayne,IN,Metro,21.2,0.3
+0100000US,United States,310M300US23140,Frankfort,IN,Micro,23,1.1
+0100000US,United States,310M300US23180,Frankfort,KY,Micro,21,0.8
+0100000US,United States,310M300US23240,Fredericksburg,TX,Micro,20.2,1.8
+0100000US,United States,310M300US23300,Freeport,IL,Micro,20.8,0.7
+0100000US,United States,310M300US23340,Fremont,NE,Micro,18.5,1
+0100000US,United States,310M300US23380,Fremont,OH,Micro,19.8,0.7
+0100000US,United States,310M300US23420,Fresno,CA,Metro,22.3,0.3
+0100000US,United States,310M300US23460,Gadsden,AL,Metro,23.9,0.7
+0100000US,United States,310M300US23500,Gaffney,SC,Micro,22.3,1.1
+0100000US,United States,310M300US23540,Gainesville,FL,Metro,21.5,0.5
+0100000US,United States,310M300US23580,Gainesville,GA,Metro,26.4,0.6
+0100000US,United States,310M300US23620,Gainesville,TX,Micro,24.4,1.3
+0100000US,United States,310M300US23660,Galesburg,IL,Micro,17.8,0.7
+0100000US,United States,310M300US23700,Gallup,NM,Micro,22.3,1
+0100000US,United States,310M300US23780,Garden City,KS,Micro,15,0.8
+0100000US,United States,310M300US23820,Gardnerville Ranchos,NV,Micro,23.9,1.2
+0100000US,United States,310M300US23860,Georgetown,SC,Micro,25,1.2
+0100000US,United States,310M300US23900,Gettysburg,PA,Metro,27.5,0.5
+0100000US,United States,310M300US23940,Gillette,WY,Micro,20.1,1.3
+0100000US,United States,310M300US23980,Glasgow,KY,Micro,21.2,0.7
+0100000US,United States,310M300US24020,Glens Falls,NY,Metro,24.4,0.6
+0100000US,United States,310M300US24060,Glenwood Springs,CO,Micro,28.1,1
+0100000US,United States,310M300US24100,Gloversville,NY,Micro,24.5,1.1
+0100000US,United States,310M300US24140,Goldsboro,NC,Metro,22.1,0.7
+0100000US,United States,310M300US24220,Grand Forks,ND,Metro,15.5,0.4
+0100000US,United States,310M300US24260,Grand Island,NE,Metro,17.4,0.6
+0100000US,United States,310M300US24300,Grand Junction,CO,Metro,20.8,0.8
+0100000US,United States,310M300US24330,Grand Rapids,MN,Micro,22.6,0.8
+0100000US,United States,310M300US24340,Grand Rapids-Wyoming,MI,Metro,21.7,0.2
+0100000US,United States,310M300US24380,Grants,NM,Micro,23.5,2
+0100000US,United States,310M300US24420,Grants Pass,OR,Metro,20.1,0.8
+0100000US,United States,310M300US24460,Great Bend,KS,Micro,17.7,1.4
+0100000US,United States,310M300US24500,Great Falls,MT,Metro,15.6,0.7
+0100000US,United States,310M300US24540,Greeley,CO,Metro,26.5,0.4
+0100000US,United States,310M300US24580,Green Bay,WI,Metro,20.1,0.3
+0100000US,United States,310M300US24620,Greeneville,TN,Micro,23.1,0.8
+0100000US,United States,310M300US24640,Greenfield Town,MA,Micro,24.4,0.7
+0100000US,United States,310M300US24660,Greensboro-High Point,NC,Metro,22.2,0.3
+0100000US,United States,310M300US24700,Greensburg,IN,Micro,20.8,1.1
+0100000US,United States,310M300US24740,Greenville,MS,Micro,16.6,0.8
+0100000US,United States,310M300US24780,Greenville,NC,Metro,20.1,0.7
+0100000US,United States,310M300US24820,Greenville,OH,Micro,22.6,0.8
+0100000US,United States,310M300US24860,Greenville-Anderson-Mauldin,SC,Metro,22.7,0.2
+0100000US,United States,310M300US24900,Greenwood,MS,Micro,19.7,1.4
+0100000US,United States,310M300US24940,Greenwood,SC,Micro,22.8,0.8
+0100000US,United States,310M300US24980,Grenada,MS,Micro,18.3,2
+0100000US,United States,310M300US25060,Gulfport-Biloxi-Pascagoula,MS,Metro,23.6,0.4
+0100000US,United States,310M300US25100,Guymon,OK,Micro,16.6,1.7
+0100000US,United States,310M300US25180,Hagerstown-Martinsburg,MD,Metro,30,0.6
+0100000US,United States,310M300US25200,Hailey,ID,Micro,20.4,1.1
+0100000US,United States,310M300US25220,Hammond,LA,Metro,31,1.2
+0100000US,United States,310M300US25260,Hanford-Corcoran,CA,Metro,21.4,0.7
+0100000US,United States,310M300US25300,Hannibal,MO,Micro,18.9,1
+0100000US,United States,310M300US25420,Harrisburg-Carlisle,PA,Metro,22.6,0.3
+0100000US,United States,310M300US25460,Harrison,AR,Micro,21.7,1.3
+0100000US,United States,310M300US25500,Harrisonburg,VA,Metro,19.3,0.5
+0100000US,United States,310M300US25540,Hartford-West Hartford-East Hartford,CT,Metro,23.8,0.2
+0100000US,United States,310M300US25580,Hastings,NE,Micro,15.3,0.7
+0100000US,United States,310M300US25620,Hattiesburg,MS,Metro,23.8,0.8
+0100000US,United States,310M300US25700,Hays,KS,Micro,12.7,1.1
+0100000US,United States,310M300US25720,Heber,UT,Micro,23.9,1.7
+0100000US,United States,310M300US25740,Helena,MT,Micro,16.6,0.5
+0100000US,United States,310M300US25760,Helena-West Helena,AR,Micro,18.8,2.1
+0100000US,United States,310M300US25780,Henderson,NC,Micro,22.8,1.1
+0100000US,United States,310M300US25820,Hereford,TX,Micro,13.7,0.9
+0100000US,United States,310M300US25840,Hermiston-Pendleton,OR,Micro,18.5,0.6
+0100000US,United States,310M300US25860,Hickory-Lenoir-Morganton,NC,Metro,22.8,0.4
+0100000US,United States,310M300US25880,Hillsdale,MI,Micro,24.1,0.8
+0100000US,United States,310M300US25900,Hilo,HI,Micro,25.6,0.7
+0100000US,United States,310M300US25940,Hilton Head Island-Bluffton-Beaufort,SC,Metro,23.3,0.7
+0100000US,United States,310M300US25980,Hinesville,GA,Metro,22.6,0.9
+0100000US,United States,310M300US26020,Hobbs,NM,Micro,19.8,0.9
+0100000US,United States,310M300US26090,Holland,MI,Micro,23.8,0.7
+0100000US,United States,310M300US26140,Homosassa Springs,FL,Metro,25.5,0.9
+0100000US,United States,310M300US26220,Hood River,OR,Micro,16.8,1.3
+0100000US,United States,310M300US26260,Hope,AR,Micro,23.2,2
+0100000US,United States,310M300US26300,Hot Springs,AR,Metro,21.4,1
+0100000US,United States,310M300US26340,Houghton,MI,Micro,15.7,0.8
+0100000US,United States,310M300US26380,Houma-Thibodaux,LA,Metro,24.9,0.6
+0100000US,United States,310M300US26420,Houston-The Woodlands-Sugar Land,TX,Metro,29.5,0.1
+0100000US,United States,310M300US26460,Hudson,NY,Micro,26.1,0.8
+0100000US,United States,310M300US26500,Huntingdon,PA,Micro,29.3,0.8
+0100000US,United States,310M300US26540,Huntington,IN,Micro,19.7,0.6
+0100000US,United States,310M300US26580,Huntington-Ashland,WV,Metro,23.6,0.4
+0100000US,United States,310M300US26620,Huntsville,AL,Metro,21.9,0.3
+0100000US,United States,310M300US26660,Huntsville,TX,Micro,26.9,1.1
+0100000US,United States,310M300US26700,Huron,SD,Micro,13.2,0.9
+0100000US,United States,310M300US26740,Hutchinson,KS,Micro,17.7,0.7
+0100000US,United States,310M300US26780,Hutchinson,MN,Micro,22.6,1.2
+0100000US,United States,310M300US26820,Idaho Falls,ID,Metro,20.2,0.6
+0100000US,United States,310M300US26860,Indiana,PA,Micro,22.6,0.5
+0100000US,United States,310M300US26900,Indianapolis-Carmel-Anderson,IN,Metro,24.8,0.2
+0100000US,United States,310M300US26940,Indianola,MS,Micro,18.2,1.1
+0100000US,United States,310M300US26960,Ionia,MI,Micro,27.8,0.7
+0100000US,United States,310M300US26980,Iowa City,IA,Metro,18.8,0.4
+0100000US,United States,310M300US27020,Iron Mountain,MI,Micro,17.4,1.1
+0100000US,United States,310M300US27060,Ithaca,NY,Metro,18.4,0.5
+0100000US,United States,310M300US27100,Jackson,MI,Metro,23.4,0.6
+0100000US,United States,310M300US27140,Jackson,MS,Metro,24.2,0.3
+0100000US,United States,310M300US27160,Jackson,OH,Micro,27.4,2
+0100000US,United States,310M300US27180,Jackson,TN,Metro,20,0.6
+0100000US,United States,310M300US27220,Jackson,WY,Micro,17.3,1.1
+0100000US,United States,310M300US27260,Jacksonville,FL,Metro,26.3,0.2
+0100000US,United States,310M300US27300,Jacksonville,IL,Micro,20.5,0.9
+0100000US,United States,310M300US27340,Jacksonville,NC,Metro,23,0.6
+0100000US,United States,310M300US27380,Jacksonville,TX,Micro,24.6,1.7
+0100000US,United States,310M300US27420,Jamestown,ND,Micro,14.1,1
+0100000US,United States,310M300US27460,Jamestown-Dunkirk-Fredonia,NY,Micro,18,0.4
+0100000US,United States,310M300US27500,Janesville-Beloit,WI,Metro,22.8,0.5
+0100000US,United States,310M300US27540,Jasper,IN,Micro,20.6,0.9
+0100000US,United States,310M300US27600,Jefferson,GA,Micro,30.8,1
+0100000US,United States,310M300US27620,Jefferson City,MO,Metro,20.7,0.6
+0100000US,United States,310M300US27660,Jennings,LA,Micro,30.3,2.4
+0100000US,United States,310M300US27700,Jesup,GA,Micro,23,1.9
+0100000US,United States,310M300US27740,Johnson City,TN,Metro,21.6,0.5
+0100000US,United States,310M300US27780,Johnstown,PA,Metro,24,0.6
+0100000US,United States,310M300US27860,Jonesboro,AR,Metro,19,0.6
+0100000US,United States,310M300US27900,Joplin,MO,Metro,19,0.6
+0100000US,United States,310M300US27920,Junction City,KS,Micro,16.3,0.7
+0100000US,United States,310M300US27940,Juneau,AK,Micro,15.6,0.7
+0100000US,United States,310M300US27980,Kahului-Wailuku-Lahaina,HI,Metro,21,0.5
+0100000US,United States,310M300US28020,Kalamazoo-Portage,MI,Metro,20.8,0.3
+0100000US,United States,310M300US28060,Kalispell,MT,Micro,18.7,0.6
+0100000US,United States,310M300US28100,Kankakee,IL,Metro,24,0.8
+0100000US,United States,310M300US28140,Kansas City,MO,Metro,22.9,0.1
+0100000US,United States,310M300US28180,Kapaa,HI,Micro,22.6,0.7
+0100000US,United States,310M300US28260,Kearney,NE,Micro,15,0.5
+0100000US,United States,310M300US28300,Keene,NH,Micro,23.4,0.8
+0100000US,United States,310M300US28340,Kendallville,IN,Micro,22.1,1
+0100000US,United States,310M300US28380,Kennett,MO,Micro,21.1,1.4
+0100000US,United States,310M300US28420,Kennewick-Richland,WA,Metro,21.4,0.5
+0100000US,United States,310M300US28500,Kerrville,TX,Micro,19.1,1.3
+0100000US,United States,310M300US28540,Ketchikan,AK,Micro,13.2,0.5
+0100000US,United States,310M300US28580,Key West,FL,Micro,18.4,0.7
+0100000US,United States,310M300US28620,Kill Devil Hills,NC,Micro,20,1
+0100000US,United States,310M300US28660,Killeen-Temple,TX,Metro,20.8,0.4
+0100000US,United States,310M300US28700,Kingsport-Bristol-Bristol,TN,Metro,22.9,0.4
+0100000US,United States,310M300US28740,Kingston,NY,Metro,28,0.6
+0100000US,United States,310M300US28780,Kingsville,TX,Micro,17.7,1.4
+0100000US,United States,310M300US28820,Kinston,NC,Micro,21.4,0.9
+0100000US,United States,310M300US28860,Kirksville,MO,Micro,18.8,1.5
+0100000US,United States,310M300US28900,Klamath Falls,OR,Micro,16.9,0.8
+0100000US,United States,310M300US28940,Knoxville,TN,Metro,23.4,0.2
+0100000US,United States,310M300US29020,Kokomo,IN,Metro,19.6,0.7
+0100000US,United States,310M300US29060,Laconia,NH,Micro,26.6,0.8
+0100000US,United States,310M300US29100,La Crosse-Onalaska,WI,Metro,18.4,0.4
+0100000US,United States,310M300US29180,Lafayette,LA,Metro,25.4,0.5
+0100000US,United States,310M300US29200,Lafayette-West Lafayette,IN,Metro,18.9,0.3
+0100000US,United States,310M300US29260,La Grande,OR,Micro,17.4,1.3
+0100000US,United States,310M300US29300,LaGrange,GA,Micro,22.4,0.9
+0100000US,United States,310M300US29340,Lake Charles,LA,Metro,21.5,0.5
+0100000US,United States,310M300US29380,Lake City,FL,Micro,24.1,1.1
+0100000US,United States,310M300US29420,Lake Havasu City-Kingman,AZ,Metro,19.8,0.8
+0100000US,United States,310M300US29460,Lakeland-Winter Haven,FL,Metro,25.6,0.3
+0100000US,United States,310M300US29500,Lamesa,TX,Micro,16.9,1.8
+0100000US,United States,310M300US29540,Lancaster,PA,Metro,23.1,0.3
+0100000US,United States,310M300US29620,Lansing-East Lansing,MI,Metro,21.1,0.3
+0100000US,United States,310M300US29660,Laramie,WY,Micro,12.7,0.8
+0100000US,United States,310M300US29700,Laredo,TX,Metro,21.7,0.5
+0100000US,United States,310M300US29740,Las Cruces,NM,Metro,20.5,0.4
+0100000US,United States,310M300US29780,Las Vegas,NM,Micro,19.7,2
+0100000US,United States,310M300US29820,Las Vegas-Henderson-Paradise,NV,Metro,24.4,0.2
+0100000US,United States,310M300US29860,Laurel,MS,Micro,23.3,1
+0100000US,United States,310M300US29900,Laurinburg,NC,Micro,22.1,1.2
+0100000US,United States,310M300US29940,Lawrence,KS,Metro,20.4,0.6
+0100000US,United States,310M300US29980,Lawrenceburg,TN,Micro,27.6,1.4
+0100000US,United States,310M300US30020,Lawton,OK,Metro,17.1,0.4
+0100000US,United States,310M300US30060,Lebanon,MO,Micro,20.3,1.3
+0100000US,United States,310M300US30140,Lebanon,PA,Metro,23,0.5
+0100000US,United States,310M300US30220,Levelland,TX,Micro,19.7,1.4
+0100000US,United States,310M300US30260,Lewisburg,PA,Micro,21.8,1.1
+0100000US,United States,310M300US30280,Lewisburg,TN,Micro,29.7,1.5
+0100000US,United States,310M300US30300,Lewiston,ID,Metro,15.7,0.6
+0100000US,United States,310M300US30340,Lewiston-Auburn,ME,Metro,23.9,0.7
+0100000US,United States,310M300US30380,Lewistown,PA,Micro,24.5,1.1
+0100000US,United States,310M300US30420,Lexington,NE,Micro,16,0.9
+0100000US,United States,310M300US30460,Lexington-Fayette,KY,Metro,21.3,0.3
+0100000US,United States,310M300US30580,Liberal,KS,Micro,14.7,1.4
+0100000US,United States,310M300US30620,Lima,OH,Metro,19,0.6
+0100000US,United States,310M300US30660,Lincoln,IL,Micro,20.2,1
+0100000US,United States,310M300US30700,Lincoln,NE,Metro,18.7,0.2
+0100000US,United States,310M300US30780,Little Rock-North Little Rock-Conway,AR,Metro,22.8,0.3
+0100000US,United States,310M300US30820,Lock Haven,PA,Micro,22.8,0.9
+0100000US,United States,310M300US30860,Logan,UT,Metro,17.9,0.5
+0100000US,United States,310M300US30880,Logan,WV,Micro,24.6,1.7
+0100000US,United States,310M300US30900,Logansport,IN,Micro,20.3,0.9
+0100000US,United States,310M300US30940,London,KY,Micro,20.4,0.8
+0100000US,United States,310M300US30980,Longview,TX,Metro,22.3,0.6
+0100000US,United States,310M300US31020,Longview,WA,Metro,24,0.9
+0100000US,United States,310M300US31060,Los Alamos,NM,Micro,15.8,0.8
+0100000US,United States,310M300US31080,Los Angeles-Long Beach-Anaheim,CA,Metro,29.6,0.1
+0100000US,United States,314M300US3108011244,Anaheim-Santa Ana-Irvine,CA,Metro,27.2,0.1
+0100000US,United States,314M300US3108031084,Los Angeles-Long Beach-Glendale,CA,Metro,30.4,0.1
+0100000US,United States,310M300US31140,Louisville/Jefferson County,KY,Metro,23.7,0.2
+0100000US,United States,310M300US31180,Lubbock,TX,Metro,17.3,0.4
+0100000US,United States,310M300US31220,Ludington,MI,Micro,17.7,0.7
+0100000US,United States,310M300US31260,Lufkin,TX,Micro,17.8,0.9
+0100000US,United States,310M300US31300,Lumberton,NC,Micro,24,0.6
+0100000US,United States,310M300US31340,Lynchburg,VA,Metro,23.7,0.4
+0100000US,United States,310M300US31380,Macomb,IL,Micro,15.2,0.8
+0100000US,United States,310M300US31420,Macon-Bibb County,GA,Metro,23.2,0.6
+0100000US,United States,310M300US31460,Madera,CA,Metro,25.6,0.9
+0100000US,United States,310M300US31500,Madison,IN,Micro,23.8,1.5
+0100000US,United States,310M300US31540,Madison,WI,Metro,21.6,0.2
+0100000US,United States,310M300US31580,Madisonville,KY,Micro,21.3,0.9
+0100000US,United States,310M300US31620,Magnolia,AR,Micro,17.2,1.3
+0100000US,United States,310M300US31660,Malone,NY,Micro,20.8,1.1
+0100000US,United States,310M300US31680,Malvern,AR,Micro,26.1,1.4
+0100000US,United States,310M300US31700,Manchester-Nashua,NH,Metro,27.5,0.4
+0100000US,United States,310M300US31740,Manhattan,KS,Metro,16.7,0.5
+0100000US,United States,310M300US31820,Manitowoc,WI,Micro,18.6,0.5
+0100000US,United States,310M300US31860,Mankato-North Mankato,MN,Metro,17.2,0.4
+0100000US,United States,310M300US31900,Mansfield,OH,Metro,21.8,0.6
+0100000US,United States,310M300US31930,Marietta,OH,Micro,22.3,1
+0100000US,United States,310M300US31940,Marinette,WI,Micro,20.1,0.6
+0100000US,United States,310M300US31980,Marion,IN,Micro,18.3,0.7
+0100000US,United States,310M300US32000,Marion,NC,Micro,23.5,1.4
+0100000US,United States,310M300US32020,Marion,OH,Micro,22.4,1
+0100000US,United States,310M300US32100,Marquette,MI,Micro,17.9,0.6
+0100000US,United States,310M300US32140,Marshall,MN,Micro,14.7,1
+0100000US,United States,310M300US32180,Marshall,MO,Micro,17.1,1.1
+0100000US,United States,310M300US32220,Marshall,TX,Micro,21.5,0.8
+0100000US,United States,310M300US32260,Marshalltown,IA,Micro,17.8,0.8
+0100000US,United States,310M300US32280,Martin,TN,Micro,19.9,1.1
+0100000US,United States,310M300US32300,Martinsville,VA,Micro,23.1,1
+0100000US,United States,310M300US32340,Maryville,MO,Micro,16.3,1.1
+0100000US,United States,310M300US32380,Mason City,IA,Micro,16.6,0.7
+0100000US,United States,310M300US32460,Mayfield,KY,Micro,23.4,1.4
+0100000US,United States,310M300US32500,Maysville,KY,Micro,25.4,2
+0100000US,United States,310M300US32540,McAlester,OK,Micro,20.8,1.3
+0100000US,United States,310M300US32580,McAllen-Edinburg-Mission,TX,Metro,21.9,0.5
+0100000US,United States,310M300US32620,McComb,MS,Micro,27.8,1.9
+0100000US,United States,310M300US32660,McMinnville,TN,Micro,24.3,1.4
+0100000US,United States,310M300US32700,McPherson,KS,Micro,13.9,1
+0100000US,United States,310M300US32740,Meadville,PA,Micro,21.5,0.4
+0100000US,United States,310M300US32780,Medford,OR,Metro,18.6,0.6
+0100000US,United States,310M300US32820,Memphis,TN,Metro,24,0.2
+0100000US,United States,310M300US32860,Menomonie,WI,Micro,22.6,0.8
+0100000US,United States,310M300US32900,Merced,CA,Metro,26.6,0.7
+0100000US,United States,310M300US32940,Meridian,MS,Micro,22.3,0.9
+0100000US,United States,310M300US32980,Merrill,WI,Micro,22.5,0.9
+0100000US,United States,310M300US33020,Mexico,MO,Micro,20.7,1.8
+0100000US,United States,310M300US33060,Miami,OK,Micro,19.8,0.7
+0100000US,United States,310M300US33100,Miami-Fort Lauderdale-West Palm Beach,FL,Metro,28.5,0.1
+0100000US,United States,314M300US3310022744,Fort Lauderdale-Pompano Beach-Deerfield Beach,FL,Metro,28,0.2
+0100000US,United States,314M300US3310033124,Miami-Miami Beach-Kendall,FL,Metro,30.6,0.2
+0100000US,United States,314M300US3310048424,West Palm Beach-Boca Raton-Delray Beach,FL,Metro,25.2,0.2
+0100000US,United States,310M300US33140,Michigan City-La Porte,IN,Metro,22.6,0.7
+0100000US,United States,310M300US33180,Middlesborough,KY,Micro,22.2,2
+0100000US,United States,310M300US33220,Midland,MI,Metro,20.6,0.5
+0100000US,United States,310M300US33260,Midland,TX,Metro,19.2,0.5
+0100000US,United States,310M300US33300,Milledgeville,GA,Micro,21.3,1.2
+0100000US,United States,310M300US33340,Milwaukee-Waukesha-West Allis,WI,Metro,23.1,0.1
+0100000US,United States,310M300US33420,Mineral Wells,TX,Micro,23.5,1.7
+0100000US,United States,310M300US33460,Minneapolis-St. Paul-Bloomington,MN,Metro,25.2,0.1
+0100000US,United States,310M300US33500,Minot,ND,Micro,19.3,0.9
+0100000US,United States,310M300US33540,Missoula,MT,Metro,18,0.6
+0100000US,United States,310M300US33580,Mitchell,SD,Micro,14.4,1
+0100000US,United States,310M300US33620,Moberly,MO,Micro,21.4,1.3
+0100000US,United States,310M300US33660,Mobile,AL,Metro,24.7,0.4
+0100000US,United States,310M300US33700,Modesto,CA,Metro,27.5,0.5
+0100000US,United States,310M300US33740,Monroe,LA,Metro,21.4,0.8
+0100000US,United States,310M300US33780,Monroe,MI,Metro,24.4,0.5
+0100000US,United States,310M300US33860,Montgomery,AL,Metro,22.9,0.4
+0100000US,United States,310M300US33940,Montrose,CO,Micro,18.8,1
+0100000US,United States,310M300US33980,Morehead City,NC,Micro,23.6,0.9
+0100000US,United States,310M300US34020,Morgan City,LA,Micro,20.7,1.3
+0100000US,United States,310M300US34060,Morgantown,WV,Metro,22.9,0.6
+0100000US,United States,310M300US34100,Morristown,TN,Metro,24.3,0.8
+0100000US,United States,310M300US34140,Moscow,ID,Micro,18.4,0.8
+0100000US,United States,310M300US34180,Moses Lake,WA,Micro,18.4,0.6
+0100000US,United States,310M300US34220,Moultrie,GA,Micro,21.5,1.6
+0100000US,United States,310M300US34260,Mountain Home,AR,Micro,16.9,1.1
+0100000US,United States,310M300US34300,Mountain Home,ID,Micro,17.3,1.2
+0100000US,United States,310M300US34340,Mount Airy,NC,Micro,24.1,0.7
+0100000US,United States,310M300US34380,Mount Pleasant,MI,Micro,18.2,0.7
+0100000US,United States,310M300US34420,Mount Pleasant,TX,Micro,19,1.1
+0100000US,United States,310M300US34460,Mount Sterling,KY,Micro,24.1,1
+0100000US,United States,310M300US34500,Mount Vernon,IL,Micro,19.5,0.6
+0100000US,United States,310M300US34540,Mount Vernon,OH,Micro,25.6,0.9
+0100000US,United States,310M300US34580,Mount Vernon-Anacortes,WA,Metro,25.5,0.7
+0100000US,United States,310M300US34620,Muncie,IN,Metro,20.5,0.6
+0100000US,United States,310M300US34660,Murray,KY,Micro,17.3,1.2
+0100000US,United States,310M300US34700,Muscatine,IA,Micro,17.3,0.9
+0100000US,United States,310M300US34740,Muskegon,MI,Metro,21.4,0.4
+0100000US,United States,310M300US34780,Muskogee,OK,Micro,20,0.7
+0100000US,United States,310M300US34820,Myrtle Beach-Conway-North Myrtle Beach,SC,Metro,22.3,0.3
+0100000US,United States,310M300US34860,Nacogdoches,TX,Micro,19.8,1.3
+0100000US,United States,310M300US34900,Napa,CA,Metro,23.9,0.5
+0100000US,United States,310M300US34940,Naples-Immokalee-Marco Island,FL,Metro,24.2,0.5
+0100000US,United States,310M300US34980,Nashville-Davidson--Murfreesboro--Franklin,TN,Metro,27,0.2
+0100000US,United States,310M300US35020,Natchez,MS,Micro,19.5,1.7
+0100000US,United States,310M300US35060,Natchitoches,LA,Micro,22.4,1.5
+0100000US,United States,310M300US35100,New Bern,NC,Metro,22.3,0.7
+0100000US,United States,310M300US35140,Newberry,SC,Micro,24,1.2
+0100000US,United States,310M300US35220,New Castle,IN,Micro,26.7,1.1
+0100000US,United States,310M300US35260,New Castle,PA,Micro,22.8,0.6
+0100000US,United States,310M300US35300,New Haven-Milford,CT,Metro,24.6,0.2
+0100000US,United States,310M300US35380,New Orleans-Metairie,LA,Metro,25.7,0.2
+0100000US,United States,310M300US35420,New Philadelphia-Dover,OH,Micro,21.7,0.7
+0100000US,United States,310M300US35440,Newport,OR,Micro,19.2,1
+0100000US,United States,310M300US35460,Newport,TN,Micro,28.6,1.6
+0100000US,United States,310M300US35500,Newton,IA,Micro,22.7,1.1
+0100000US,United States,310M300US35580,New Ulm,MN,Micro,14.5,0.8
+0100000US,United States,310M300US35620,New York-Newark-Jersey City,NY,Metro,35.9,0.1
+0100000US,United States,314M300US3562020524,Dutchess County-Putnam County,NY,Metro,33.9,0.5
+0100000US,United States,314M300US3562035004,Nassau County-Suffolk County,NY,Metro,33.4,0.1
+0100000US,United States,314M300US3562035084,Newark,NJ,Metro,32.7,0.2
+0100000US,United States,314M300US3562035614,New York-Jersey City-White Plains,NY,Metro,37.1,0.1
+0100000US,United States,310M300US35660,Niles-Benton Harbor,MI,Metro,19.5,0.4
+0100000US,United States,310M300US35700,Nogales,AZ,Micro,22.7,1.6
+0100000US,United States,310M300US35740,Norfolk,NE,Micro,15.4,0.5
+0100000US,United States,310M300US35820,North Platte,NE,Micro,15.1,0.7
+0100000US,United States,310M300US35840,North Port-Sarasota-Bradenton,FL,Metro,24.1,0.3
+0100000US,United States,310M300US35860,North Vernon,IN,Micro,26.4,1.5
+0100000US,United States,310M300US35900,North Wilkesboro,NC,Micro,23.5,0.9
+0100000US,United States,310M300US35940,Norwalk,OH,Micro,23.1,1.1
+0100000US,United States,310M300US35980,Norwich-New London,CT,Metro,23.2,0.4
+0100000US,United States,310M300US36020,Oak Harbor,WA,Micro,29,1
+0100000US,United States,310M300US36100,Ocala,FL,Metro,25,0.5
+0100000US,United States,310M300US36140,Ocean City,NJ,Metro,22.5,0.7
+0100000US,United States,310M300US36220,Odessa,TX,Metro,21.6,0.7
+0100000US,United States,310M300US36260,Ogden-Clearfield,UT,Metro,22.5,0.3
+0100000US,United States,310M300US36300,Ogdensburg-Massena,NY,Micro,20.6,0.5
+0100000US,United States,310M300US36340,Oil City,PA,Micro,22,0.6
+0100000US,United States,310M300US36380,Okeechobee,FL,Micro,25,1.8
+0100000US,United States,310M300US36420,Oklahoma City,OK,Metro,22.4,0.2
+0100000US,United States,310M300US36460,Olean,NY,Micro,21.5,0.5
+0100000US,United States,310M300US36500,Olympia-Tumwater,WA,Metro,24.8,0.5
+0100000US,United States,310M300US36540,Omaha-Council Bluffs,NE,Metro,20.2,0.1
+0100000US,United States,310M300US36580,Oneonta,NY,Micro,21.8,0.7
+0100000US,United States,310M300US36620,Ontario,OR,Micro,17.9,0.9
+0100000US,United States,310M300US36660,Opelousas,LA,Micro,26.2,1
+0100000US,United States,310M300US36700,Orangeburg,SC,Micro,27.8,1.1
+0100000US,United States,310M300US36740,Orlando-Kissimmee-Sanford,FL,Metro,27.8,0.2
+0100000US,United States,310M300US36780,Oshkosh-Neenah,WI,Metro,18.5,0.3
+0100000US,United States,310M300US36820,Oskaloosa,IA,Micro,18.6,1
+0100000US,United States,310M300US36830,Othello,WA,Micro,18.1,1.2
+0100000US,United States,310M300US36840,Ottawa,KS,Micro,24.9,1.6
+0100000US,United States,310M300US36860,Ottawa-Peru,IL,Micro,22,0.6
+0100000US,United States,310M300US36900,Ottumwa,IA,Micro,19.3,1.1
+0100000US,United States,310M300US36940,Owatonna,MN,Micro,18,0.8
+0100000US,United States,310M300US36980,Owensboro,KY,Metro,20.3,0.7
+0100000US,United States,310M300US37020,Owosso,MI,Micro,27.8,0.9
+0100000US,United States,310M300US37060,Oxford,MS,Micro,18.1,1.1
+0100000US,United States,310M300US37080,Oxford,NC,Micro,28.7,1
+0100000US,United States,310M300US37100,Oxnard-Thousand Oaks-Ventura,CA,Metro,26,0.3
+0100000US,United States,310M300US37120,Ozark,AL,Micro,20.4,0.8
+0100000US,United States,310M300US37140,Paducah,KY,Micro,19.3,0.5
+0100000US,United States,310M300US37220,Pahrump,NV,Micro,23.7,2
+0100000US,United States,310M300US37260,Palatka,FL,Micro,27.5,1.1
+0100000US,United States,310M300US37300,Palestine,TX,Micro,22.7,1.3
+0100000US,United States,310M300US37340,Palm Bay-Melbourne-Titusville,FL,Metro,24.2,0.4
+0100000US,United States,310M300US37420,Pampa,TX,Micro,19.9,1.5
+0100000US,United States,310M300US37460,Panama City,FL,Metro,22.8,0.7
+0100000US,United States,310M300US37500,Paragould,AR,Micro,20.2,1.1
+0100000US,United States,310M300US37540,Paris,TN,Micro,21.4,1.4
+0100000US,United States,310M300US37580,Paris,TX,Micro,20.4,1.5
+0100000US,United States,310M300US37620,Parkersburg-Vienna,WV,Metro,20.8,0.7
+0100000US,United States,310M300US37660,Parsons,KS,Micro,16.2,1
+0100000US,United States,310M300US37740,Payson,AZ,Micro,19.7,1.4
+0100000US,United States,310M300US37780,Pecos,TX,Micro,16.6,2.4
+0100000US,United States,310M300US37800,Pella,IA,Micro,19.7,1
+0100000US,United States,310M300US37860,Pensacola-Ferry Pass-Brent,FL,Metro,24.1,0.4
+0100000US,United States,310M300US37900,Peoria,IL,Metro,20.6,0.3
+0100000US,United States,310M300US37940,Peru,IN,Micro,23.5,1.3
+0100000US,United States,310M300US37980,Philadelphia-Camden-Wilmington,PA,Metro,29.2,0.1
+0100000US,United States,314M300US3798015804,Camden,NJ,Metro,28.8,0.2
+0100000US,United States,314M300US3798033874,Montgomery County-Bucks County-Chester County,PA,Metro,28.4,0.2
+0100000US,United States,314M300US3798037964,Philadelphia,PA,Metro,31.5,0.2
+0100000US,United States,314M300US3798048864,Wilmington,DE,Metro,26,0.2
+0100000US,United States,310M300US38060,Phoenix-Mesa-Scottsdale,AZ,Metro,26,0.1
+0100000US,United States,310M300US38100,Picayune,MS,Micro,34,1.8
+0100000US,United States,310M300US38180,Pierre,SD,Micro,11.5,0.8
+0100000US,United States,310M300US38220,Pine Bluff,AR,Metro,22.1,0.6
+0100000US,United States,310M300US38240,Pinehurst-Southern Pines,NC,Micro,23.7,0.9
+0100000US,United States,310M300US38260,Pittsburg,KS,Micro,16.2,0.8
+0100000US,United States,310M300US38300,Pittsburgh,PA,Metro,26.5,0.1
+0100000US,United States,310M300US38340,Pittsfield,MA,Metro,20.2,0.6
+0100000US,United States,310M300US38380,Plainview,TX,Micro,16.7,1.3
+0100000US,United States,310M300US38420,Platteville,WI,Micro,20.2,0.6
+0100000US,United States,310M300US38460,Plattsburgh,NY,Micro,19.8,0.7
+0100000US,United States,310M300US38500,Plymouth,IN,Micro,22,0.9
+0100000US,United States,310M300US38540,Pocatello,ID,Metro,17.7,0.8
+0100000US,United States,310M300US38580,Point Pleasant,WV,Micro,29.4,1.3
+0100000US,United States,310M300US38620,Ponca City,OK,Micro,16.9,0.7
+0100000US,United States,310M300US38700,Pontiac,IL,Micro,19.8,1
+0100000US,United States,310M300US38740,Poplar Bluff,MO,Micro,17.1,1
+0100000US,United States,310M300US38780,Portales,NM,Micro,17.1,1.6
+0100000US,United States,310M300US38820,Port Angeles,WA,Micro,21.2,1.4
+0100000US,United States,310M300US38840,Port Clinton,OH,Micro,23.8,0.9
+0100000US,United States,310M300US38860,Portland-South Portland,ME,Metro,24.7,0.3
+0100000US,United States,310M300US38900,Portland-Vancouver-Hillsboro,OR,Metro,26.2,0.2
+0100000US,United States,310M300US38920,Port Lavaca,TX,Micro,21.9,1.7
+0100000US,United States,310M300US38940,Port St. Lucie,FL,Metro,27.1,0.7
+0100000US,United States,310M300US39020,Portsmouth,OH,Micro,25.4,1.1
+0100000US,United States,310M300US39060,Pottsville,PA,Micro,25.7,0.5
+0100000US,United States,310M300US39140,Prescott,AZ,Metro,23.1,0.8
+0100000US,United States,310M300US39220,Price,UT,Micro,17.3,1.8
+0100000US,United States,310M300US39260,Prineville,OR,Micro,20.5,1.5
+0100000US,United States,310M300US39300,Providence-Warwick,RI,Metro,25.6,0.2
+0100000US,United States,310M300US39340,Provo-Orem,UT,Metro,21.4,0.3
+0100000US,United States,310M300US39380,Pueblo,CO,Metro,21.4,0.5
+0100000US,United States,310M300US39420,Pullman,WA,Micro,15.3,0.5
+0100000US,United States,310M300US39460,Punta Gorda,FL,Metro,24,0.7
+0100000US,United States,310M300US39500,Quincy,IL,Micro,17.4,0.5
+0100000US,United States,310M300US39540,Racine,WI,Metro,23.8,0.5
+0100000US,United States,310M300US39580,Raleigh,NC,Metro,25.4,0.2
+0100000US,United States,310M300US39660,Rapid City,SD,Metro,18.5,0.4
+0100000US,United States,310M300US39700,Raymondville,TX,Micro,23.1,2
+0100000US,United States,310M300US39740,Reading,PA,Metro,24.8,0.3
+0100000US,United States,310M300US39780,Red Bluff,CA,Micro,24.2,1.3
+0100000US,United States,310M300US39820,Redding,CA,Metro,19.9,0.6
+0100000US,United States,310M300US39860,Red Wing,MN,Micro,24,0.9
+0100000US,United States,310M300US39900,Reno,NV,Metro,21.4,0.3
+0100000US,United States,310M300US39940,Rexburg,ID,Micro,17.4,0.8
+0100000US,United States,310M300US39980,Richmond,IN,Micro,19.5,0.7
+0100000US,United States,310M300US40060,Richmond,VA,Metro,25,0.2
+0100000US,United States,310M300US40080,Richmond-Berea,KY,Micro,22.3,0.7
+0100000US,United States,310M300US40100,Rio Grande City,TX,Micro,22.6,1.9
+0100000US,United States,310M300US40140,Riverside-San Bernardino-Ontario,CA,Metro,31.8,0.2
+0100000US,United States,310M300US40180,Riverton,WY,Micro,18.6,1.3
+0100000US,United States,310M300US40220,Roanoke,VA,Metro,23.3,0.4
+0100000US,United States,310M300US40260,Roanoke Rapids,NC,Micro,24.9,1
+0100000US,United States,310M300US40300,Rochelle,IL,Micro,25.7,0.9
+0100000US,United States,310M300US40340,Rochester,MN,Metro,19.6,0.3
+0100000US,United States,310M300US40380,Rochester,NY,Metro,21.2,0.2
+0100000US,United States,310M300US40420,Rockford,IL,Metro,22.7,0.4
+0100000US,United States,310M300US40460,Rockingham,NC,Micro,21.5,1.2
+0100000US,United States,310M300US40540,Rock Springs,WY,Micro,20.7,1.2
+0100000US,United States,310M300US40580,Rocky Mount,NC,Metro,21.5,0.6
+0100000US,United States,310M300US40620,Rolla,MO,Micro,19.3,1.2
+0100000US,United States,310M300US40660,Rome,GA,Metro,22.1,0.8
+0100000US,United States,310M300US40700,Roseburg,OR,Micro,20,0.9
+0100000US,United States,310M300US40740,Roswell,NM,Micro,19.7,1.5
+0100000US,United States,310M300US40760,Ruidoso,NM,Micro,21.1,3.6
+0100000US,United States,310M300US40780,Russellville,AR,Micro,18.9,0.7
+0100000US,United States,310M300US40820,Ruston,LA,Micro,19.9,1.4
+0100000US,United States,310M300US40860,Rutland,VT,Micro,21,0.7
+0100000US,United States,310M300US40900,Sacramento--Roseville--Arden-Arcade,CA,Metro,26.4,0.2
+0100000US,United States,310M300US40940,Safford,AZ,Micro,21.7,1.3
+0100000US,United States,310M300US40980,Saginaw,MI,Metro,21.7,0.4
+0100000US,United States,310M300US41060,St. Cloud,MN,Metro,20.8,0.4
+0100000US,United States,310M300US41100,St. George,UT,Metro,18.4,0.7
+0100000US,United States,310M300US41140,St. Joseph,MO,Metro,18.6,0.5
+0100000US,United States,310M300US41180,St. Louis,MO,Metro,25.5,0.2
+0100000US,United States,310M300US41220,St. Marys,GA,Micro,22.4,1.2
+0100000US,United States,310M300US41260,St. Marys,PA,Micro,18.4,0.9
+0100000US,United States,310M300US41400,Salem,OH,Micro,25.3,0.9
+0100000US,United States,310M300US41420,Salem,OR,Metro,23.3,0.4
+0100000US,United States,310M300US41460,Salina,KS,Micro,15.4,0.7
+0100000US,United States,310M300US41500,Salinas,CA,Metro,22.5,0.4
+0100000US,United States,310M300US41540,Salisbury,MD,Metro,24.1,0.4
+0100000US,United States,310M300US41620,Salt Lake City,UT,Metro,22.5,0.2
+0100000US,United States,310M300US41660,San Angelo,TX,Metro,17.9,0.7
+0100000US,United States,310M300US41700,San Antonio-New Braunfels,TX,Metro,25.7,0.2
+0100000US,United States,310M300US41740,San Diego-Carlsbad,CA,Metro,25.3,0.1
+0100000US,United States,310M300US41760,Sandpoint,ID,Micro,25,1.7
+0100000US,United States,310M300US41780,Sandusky,OH,Micro,21,0.8
+0100000US,United States,310M300US41820,Sanford,NC,Micro,23.5,0.9
+0100000US,United States,310M300US41860,San Francisco-Oakland-Hayward,CA,Metro,32.1,0.1
+0100000US,United States,314M300US4186036084,Oakland-Hayward-Berkeley,CA,Metro,33.5,0.2
+0100000US,United States,314M300US4186041884,San Francisco-Redwood City-South San Francisco,CA,Metro,30.2,0.2
+0100000US,United States,314M300US4186042034,San Rafael,CA,Metro,31,0.5
+0100000US,United States,310M300US41940,San Jose-Sunnyvale-Santa Clara,CA,Metro,27.3,0.2
+0100000US,United States,310M300US42020,San Luis Obispo-Paso Robles-Arroyo Grande,CA,Metro,22,0.5
+0100000US,United States,310M300US42100,Santa Cruz-Watsonville,CA,Metro,26.2,0.5
+0100000US,United States,310M300US42140,Santa Fe,NM,Metro,22.2,0.5
+0100000US,United States,310M300US42200,Santa Maria-Santa Barbara,CA,Metro,19.2,0.3
+0100000US,United States,310M300US42220,Santa Rosa,CA,Metro,25,0.4
+0100000US,United States,310M300US42300,Sault Ste. Marie,MI,Micro,16.8,0.7
+0100000US,United States,310M300US42340,Savannah,GA,Metro,23.6,0.4
+0100000US,United States,310M300US42380,Sayre,PA,Micro,22.7,0.6
+0100000US,United States,310M300US42420,Scottsbluff,NE,Micro,15.7,0.9
+0100000US,United States,310M300US42460,Scottsboro,AL,Micro,25.4,1
+0100000US,United States,310M300US42540,Scranton--Wilkes-Barre--Hazleton,PA,Metro,21.7,0.2
+0100000US,United States,310M300US42620,Searcy,AR,Micro,23.6,0.9
+0100000US,United States,310M300US42660,Seattle-Tacoma-Bellevue,WA,Metro,29.6,0.1
+0100000US,United States,314M300US4266042644,Seattle-Bellevue-Everett,WA,Metro,29.3,0.1
+0100000US,United States,314M300US4266045104,Tacoma-Lakewood,WA,Metro,30.5,0.3
+0100000US,United States,310M300US42680,Sebastian-Vero Beach,FL,Metro,22.2,0.7
+0100000US,United States,310M300US42700,Sebring,FL,Metro,20.4,0.8
+0100000US,United States,310M300US42740,Sedalia,MO,Micro,18.5,0.9
+0100000US,United States,310M300US42780,Selinsgrove,PA,Micro,23.2,0.9
+0100000US,United States,310M300US42820,Selma,AL,Micro,22.4,1.4
+0100000US,United States,310M300US42860,Seneca,SC,Micro,24.7,1.2
+0100000US,United States,310M300US42900,Seneca Falls,NY,Micro,22.7,0.9
+0100000US,United States,310M300US42940,Sevierville,TN,Micro,25.4,0.9
+0100000US,United States,310M300US42980,Seymour,IN,Micro,20.3,0.9
+0100000US,United States,310M300US43020,Shawano,WI,Micro,22.1,0.5
+0100000US,United States,310M300US43060,Shawnee,OK,Micro,23.4,0.7
+0100000US,United States,310M300US43100,Sheboygan,WI,Metro,18.2,0.4
+0100000US,United States,310M300US43140,Shelby,NC,Micro,23.4,0.7
+0100000US,United States,310M300US43180,Shelbyville,TN,Micro,25.1,1.5
+0100000US,United States,310M300US43220,Shelton,WA,Micro,31.9,1.7
+0100000US,United States,310M300US43260,Sheridan,WY,Micro,16.5,1.3
+0100000US,United States,310M300US43300,Sherman-Denison,TX,Metro,24.7,0.7
+0100000US,United States,310M300US43320,Show Low,AZ,Micro,21.9,1.2
+0100000US,United States,310M300US43340,Shreveport-Bossier City,LA,Metro,21.8,0.4
+0100000US,United States,310M300US43380,Sidney,OH,Micro,17.7,0.7
+0100000US,United States,310M300US43420,Sierra Vista-Douglas,AZ,Metro,19.5,0.6
+0100000US,United States,310M300US43460,Sikeston,MO,Micro,19,1.4
+0100000US,United States,310M300US43500,Silver City,NM,Micro,16.5,1.2
+0100000US,United States,310M300US43580,Sioux City,IA,Metro,17.8,0.3
+0100000US,United States,310M300US43620,Sioux Falls,SD,Metro,18.5,0.4
+0100000US,United States,310M300US43660,Snyder,TX,Micro,15.9,1.6
+0100000US,United States,310M300US43700,Somerset,KY,Micro,20.4,0.9
+0100000US,United States,310M300US43740,Somerset,PA,Micro,23.9,0.7
+0100000US,United States,310M300US43760,Sonora,CA,Micro,27.3,2.2
+0100000US,United States,310M300US43780,South Bend-Mishawaka,IN,Metro,21.7,0.3
+0100000US,United States,310M300US43900,Spartanburg,SC,Metro,23.1,0.4
+0100000US,United States,310M300US43940,Spearfish,SD,Micro,16.9,1.2
+0100000US,United States,310M300US43980,Spencer,IA,Micro,15.3,1.1
+0100000US,United States,310M300US44020,Spirit Lake,IA,Micro,15.8,0.9
+0100000US,United States,310M300US44060,Spokane-Spokane Valley,WA,Metro,21.9,0.3
+0100000US,United States,310M300US44100,Springfield,IL,Metro,19.6,0.4
+0100000US,United States,310M300US44140,Springfield,MA,Metro,22.6,0.2
+0100000US,United States,310M300US44180,Springfield,MO,Metro,21.8,0.3
+0100000US,United States,310M300US44220,Springfield,OH,Metro,22.1,0.5
+0100000US,United States,310M300US44260,Starkville,MS,Micro,18.4,1.8
+0100000US,United States,310M300US44300,State College,PA,Metro,20.5,0.6
+0100000US,United States,310M300US44340,Statesboro,GA,Micro,20.9,1
+0100000US,United States,310M300US44420,Staunton-Waynesboro,VA,Metro,22.4,0.6
+0100000US,United States,310M300US44460,Steamboat Springs,CO,Micro,17,0.7
+0100000US,United States,310M300US44500,Stephenville,TX,Micro,19.5,1.8
+0100000US,United States,310M300US44540,Sterling,CO,Micro,17.2,2.1
+0100000US,United States,310M300US44580,Sterling,IL,Micro,19.1,0.8
+0100000US,United States,310M300US44620,Stevens Point,WI,Micro,18.8,0.5
+0100000US,United States,310M300US44660,Stillwater,OK,Micro,17.1,0.8
+0100000US,United States,310M300US44700,Stockton-Lodi,CA,Metro,31.2,0.5
+0100000US,United States,310M300US44740,Storm Lake,IA,Micro,14.4,1
+0100000US,United States,310M300US44780,Sturgis,MI,Micro,21.8,0.7
+0100000US,United States,310M300US44860,Sulphur Springs,TX,Micro,23,1.3
+0100000US,United States,310M300US44900,Summerville,GA,Micro,25.3,2.2
+0100000US,United States,310M300US44920,Summit Park,UT,Micro,24.4,0.9
+0100000US,United States,310M300US44940,Sumter,SC,Metro,22.4,0.9
+0100000US,United States,310M300US44980,Sunbury,PA,Micro,23.8,0.6
+0100000US,United States,310M300US45000,Susanville,CA,Micro,21.3,2.3
+0100000US,United States,310M300US45020,Sweetwater,TX,Micro,15.3,1.3
+0100000US,United States,310M300US45060,Syracuse,NY,Metro,21.1,0.2
+0100000US,United States,310M300US45140,Tahlequah,OK,Micro,23.3,1
+0100000US,United States,310M300US45180,Talladega-Sylacauga,AL,Micro,25.4,1
+0100000US,United States,310M300US45220,Tallahassee,FL,Metro,22.6,0.4
+0100000US,United States,310M300US45300,Tampa-St. Petersburg-Clearwater,FL,Metro,26.7,0.2
+0100000US,United States,310M300US45340,Taos,NM,Micro,20.1,1.7
+0100000US,United States,310M300US45380,Taylorville,IL,Micro,24.6,1.1
+0100000US,United States,310M300US45460,Terre Haute,IN,Metro,21.8,0.6
+0100000US,United States,310M300US45500,Texarkana,TX,Metro,18.6,0.7
+0100000US,United States,310M300US45520,The Dalles,OR,Micro,16.3,0.9
+0100000US,United States,310M300US45540,The Villages,FL,Metro,25,1.5
+0100000US,United States,310M300US45580,Thomaston,GA,Micro,23,1.8
+0100000US,United States,310M300US45620,Thomasville,GA,Micro,20.9,1
+0100000US,United States,310M300US45660,Tiffin,OH,Micro,20.8,0.7
+0100000US,United States,310M300US45700,Tifton,GA,Micro,20.3,2.7
+0100000US,United States,310M300US45740,Toccoa,GA,Micro,20.9,2.2
+0100000US,United States,310M300US45780,Toledo,OH,Metro,20.7,0.2
+0100000US,United States,310M300US45820,Topeka,KS,Metro,20.2,0.3
+0100000US,United States,310M300US45860,Torrington,CT,Micro,27.3,0.6
+0100000US,United States,310M300US45900,Traverse City,MI,Micro,22,0.5
+0100000US,United States,310M300US45940,Trenton,NJ,Metro,28,0.4
+0100000US,United States,310M300US45980,Troy,AL,Micro,19.7,0.9
+0100000US,United States,310M300US46020,Truckee-Grass Valley,CA,Micro,24.1,1.1
+0100000US,United States,310M300US46060,Tucson,AZ,Metro,24.4,0.2
+0100000US,United States,310M300US46100,Tullahoma-Manchester,TN,Micro,23,0.8
+0100000US,United States,310M300US46140,Tulsa,OK,Metro,21.3,0.1
+0100000US,United States,310M300US46180,Tupelo,MS,Micro,21.3,0.6
+0100000US,United States,310M300US46220,Tuscaloosa,AL,Metro,23,0.5
+0100000US,United States,310M300US46300,Twin Falls,ID,Micro,17.3,0.7
+0100000US,United States,310M300US46340,Tyler,TX,Metro,23.3,0.6
+0100000US,United States,310M300US46380,Ukiah,CA,Micro,19.2,1.2
+0100000US,United States,310M300US46460,Union City,TN,Micro,20.7,1.2
+0100000US,United States,310M300US46500,Urbana,OH,Micro,27,1.5
+0100000US,United States,310M300US46520,Urban Honolulu,HI,Metro,28.7,0.2
+0100000US,United States,310M300US46540,Utica-Rome,NY,Metro,20.5,0.4
+0100000US,United States,310M300US46620,Uvalde,TX,Micro,17.2,1.4
+0100000US,United States,310M300US46660,Valdosta,GA,Metro,20.2,0.8
+0100000US,United States,310M300US46700,Vallejo-Fairfield,CA,Metro,30.8,0.5
+0100000US,United States,310M300US46740,Valley,AL,Micro,24.5,1.3
+0100000US,United States,310M300US46780,Van Wert,OH,Micro,18.5,0.8
+0100000US,United States,310M300US46820,Vermillion,SD,Micro,14.5,1.8
+0100000US,United States,310M300US46860,Vernal,UT,Micro,19,1.2
+0100000US,United States,310M300US46900,Vernon,TX,Micro,13,1.9
+0100000US,United States,310M300US46980,Vicksburg,MS,Micro,18.6,1
+0100000US,United States,310M300US47020,Victoria,TX,Metro,20.9,0.8
+0100000US,United States,310M300US47080,Vidalia,GA,Micro,20.2,1.4
+0100000US,United States,310M300US47180,Vincennes,IN,Micro,19,1.1
+0100000US,United States,310M300US47220,Vineland-Bridgeton,NJ,Metro,23.4,0.6
+0100000US,United States,310M300US47240,Vineyard Haven,MA,Micro,14.2,1
+0100000US,United States,310M300US47260,Virginia Beach-Norfolk-Newport News,VA,Metro,24.2,0.2
+0100000US,United States,310M300US47300,Visalia-Porterville,CA,Metro,22.7,0.4
+0100000US,United States,310M300US47340,Wabash,IN,Micro,18.7,1
+0100000US,United States,310M300US47380,Waco,TX,Metro,19.4,0.4
+0100000US,United States,310M300US47420,Wahpeton,ND,Micro,18.1,0.8
+0100000US,United States,310M300US47460,Walla Walla,WA,Metro,15.4,0.7
+0100000US,United States,310M300US47540,Wapakoneta,OH,Micro,19.6,0.7
+0100000US,United States,310M300US47580,Warner Robins,GA,Metro,21.3,0.5
+0100000US,United States,310M300US47620,Warren,PA,Micro,20.3,0.8
+0100000US,United States,310M300US47660,Warrensburg,MO,Micro,21.1,0.8
+0100000US,United States,310M300US47700,Warsaw,IN,Micro,19.7,0.6
+0100000US,United States,310M300US47780,Washington,IN,Micro,24.6,1.4
+0100000US,United States,310M300US47820,Washington,NC,Micro,24.3,1.5
+0100000US,United States,310M300US47900,Washington-Arlington-Alexandria,DC,Metro,34.4,0.1
+0100000US,United States,314M300US4790043524,Silver Spring-Frederick-Rockville,MD,Metro,34.6,0.2
+0100000US,United States,314M300US4790047894,Washington-Arlington-Alexandria,DC,Metro,34.4,0.1
+0100000US,United States,310M300US47920,Washington Court House,OH,Micro,24,1.2
+0100000US,United States,310M300US47940,Waterloo-Cedar Falls,IA,Metro,16.4,0.4
+0100000US,United States,310M300US47980,Watertown,SD,Micro,15,1.6
+0100000US,United States,310M300US48020,Watertown-Fort Atkinson,WI,Micro,23.2,0.6
+0100000US,United States,310M300US48060,Watertown-Fort Drum,NY,Metro,17.6,0.5
+0100000US,United States,310M300US48100,Wauchula,FL,Micro,24.7,2
+0100000US,United States,310M300US48140,Wausau,WI,Metro,19.5,0.5
+0100000US,United States,310M300US48180,Waycross,GA,Micro,22.2,1.2
+0100000US,United States,310M300US48220,Weatherford,OK,Micro,17.4,1.6
+0100000US,United States,310M300US48260,Weirton-Steubenville,WV,Metro,24.9,0.7
+0100000US,United States,310M300US48300,Wenatchee,WA,Metro,18.5,0.6
+0100000US,United States,310M300US48460,West Plains,MO,Micro,19,1.3
+0100000US,United States,310M300US48500,West Point,MS,Micro,22.4,1.4
+0100000US,United States,310M300US48540,Wheeling,WV,Metro,22.2,0.5
+0100000US,United States,310M300US48580,Whitewater-Elkhorn,WI,Micro,24.2,0.6
+0100000US,United States,310M300US48620,Wichita,KS,Metro,19.4,0.2
+0100000US,United States,310M300US48660,Wichita Falls,TX,Metro,16.5,0.5
+0100000US,United States,310M300US48700,Williamsport,PA,Metro,20.3,0.6
+0100000US,United States,310M300US48780,Williston,ND,Micro,18.6,1.5
+0100000US,United States,310M300US48820,Willmar,MN,Micro,17.2,0.5
+0100000US,United States,310M300US48900,Wilmington,NC,Metro,21.8,0.6
+0100000US,United States,310M300US48940,Wilmington,OH,Micro,26.4,1.2
+0100000US,United States,310M300US48980,Wilson,NC,Micro,20.5,0.8
+0100000US,United States,310M300US49020,Winchester,VA,Metro,29.5,0.9
+0100000US,United States,310M300US49080,Winnemucca,NV,Micro,30.4,2
+0100000US,United States,310M300US49100,Winona,MN,Micro,17.4,0.5
+0100000US,United States,310M300US49180,Winston-Salem,NC,Metro,23.1,0.3
+0100000US,United States,310M300US49220,Wisconsin Rapids-Marshfield,WI,Micro,19.3,0.7
+0100000US,United States,310M300US49260,Woodward,OK,Micro,18.1,1.8
+0100000US,United States,310M300US49300,Wooster,OH,Micro,20.8,0.5
+0100000US,United States,310M300US49340,Worcester,MA,Metro,28.3,0.3
+0100000US,United States,310M300US49380,Worthington,MN,Micro,16.6,1.2
+0100000US,United States,310M300US49420,Yakima,WA,Metro,19.4,0.5
+0100000US,United States,310M300US49460,Yankton,SD,Micro,14.5,1.1
+0100000US,United States,310M300US49620,York-Hanover,PA,Metro,27.1,0.4
+0100000US,United States,310M300US49660,Youngstown-Warren-Boardman,OH,Metro,21.7,0.3
+0100000US,United States,310M300US49700,Yuba City,CA,Metro,28,0.7
+0100000US,United States,310M300US49740,Yuma,AZ,Metro,19,0.5
+0100000US,United States,310M300US49780,Zanesville,OH,Micro,23.4,0.8
+0100000US,United States,310M300US49820,Zapata,TX,Micro,18.4,4.4
