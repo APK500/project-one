@@ -461,10 +461,11 @@ biz_env_rankings
 
 
 ```python
-# RE Costs, Cost of Living, and Geography Rankings
-re_col_geo_rankings = pd.read_csv("jake/Final Rankings RE, COL, & GEO.csv")
-re_col_geo_rankings.columns = [['City', 'State', 'RE & COL', 'Geography']]
-re_col_geo_rankings
+# RE Costs & Cost of Living rankings
+re_col_rankings = pd.read_csv("jake/Final Rankings RE, COL, & GEO.csv")
+re_col_rankings = re_col_rankings[['City/Region', 'State', 'RE & COL Score']]
+re_col_rankings.columns = [['City', 'State', 'RE & COL']]
+re_col_rankings
 ```
 
 
@@ -491,7 +492,6 @@ re_col_geo_rankings
       <th>City</th>
       <th>State</th>
       <th>RE &amp; COL</th>
-      <th>Geography</th>
     </tr>
   </thead>
   <tbody>
@@ -500,133 +500,114 @@ re_col_geo_rankings
       <td>Atlanta</td>
       <td>GA</td>
       <td>10.0</td>
-      <td>6.8</td>
     </tr>
     <tr>
       <th>1</th>
       <td>Austin</td>
       <td>TX</td>
       <td>8.2</td>
-      <td>3.8</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Boston</td>
       <td>MA</td>
       <td>2.5</td>
-      <td>8.5</td>
     </tr>
     <tr>
       <th>3</th>
       <td>Chicago</td>
       <td>IL</td>
       <td>5.1</td>
-      <td>3.1</td>
     </tr>
     <tr>
       <th>4</th>
       <td>Columbus</td>
       <td>OH</td>
       <td>8.8</td>
-      <td>4.7</td>
     </tr>
     <tr>
       <th>5</th>
       <td>Dallas</td>
       <td>TX</td>
       <td>8.8</td>
-      <td>3.7</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Denver</td>
       <td>CO</td>
       <td>5.3</td>
-      <td>0.0</td>
     </tr>
     <tr>
       <th>7</th>
       <td>Indianapolis</td>
       <td>IN</td>
       <td>8.5</td>
-      <td>4.0</td>
     </tr>
     <tr>
       <th>8</th>
       <td>Los Angeles</td>
       <td>CA</td>
       <td>0.8</td>
-      <td>1.9</td>
     </tr>
     <tr>
       <th>9</th>
       <td>Miami</td>
       <td>FL</td>
       <td>6.1</td>
-      <td>10.0</td>
     </tr>
     <tr>
       <th>10</th>
       <td>Montgomery County</td>
       <td>MD</td>
       <td>5.6</td>
-      <td>7.0</td>
     </tr>
     <tr>
       <th>11</th>
       <td>Nashville</td>
       <td>TN</td>
       <td>8.3</td>
-      <td>4.9</td>
     </tr>
     <tr>
       <th>12</th>
       <td>Newark</td>
       <td>NJ</td>
       <td>4.0</td>
-      <td>7.5</td>
     </tr>
     <tr>
       <th>13</th>
       <td>New York</td>
       <td>NY</td>
       <td>0.0</td>
-      <td>7.5</td>
     </tr>
     <tr>
       <th>14</th>
       <td>Northern Virginia</td>
       <td>VA</td>
       <td>5.1</td>
-      <td>7.1</td>
     </tr>
     <tr>
       <th>15</th>
       <td>Philadelphia</td>
       <td>PA</td>
       <td>6.7</td>
-      <td>7.3</td>
     </tr>
     <tr>
       <th>16</th>
       <td>Pittsburgh</td>
       <td>PA</td>
       <td>8.2</td>
-      <td>5.1</td>
     </tr>
     <tr>
       <th>17</th>
       <td>Raleigh</td>
       <td>NC</td>
       <td>9.4</td>
-      <td>7.5</td>
     </tr>
     <tr>
       <th>18</th>
       <td>Washington</td>
       <td>DC</td>
       <td>5.7</td>
-      <td>7.1</td>
     </tr>
   </tbody>
 </table>
@@ -1188,283 +1169,19 @@ qol_combined
 
 ```python
 # Merge all dataframes into the final rankings
-final_merge1 = pd.merge(re_col_geo_rankings, biz_env_rankings, how='left', left_on='City', right_on='City')
-final_merge1 = final_merge1[['City', 'State', 'RE & COL', 'Geography', 'Biz Env Score']]
+final_merge1 = pd.merge(re_col_rankings, biz_env_rankings, how='left', left_on='City', right_on='City')
+final_merge1 = final_merge1[['City', 'State', 'RE & COL', 'Biz Env Score']]
 final_merge2 = pd.merge(final_merge1, qol_combined, how='left', left_on='City', right_on='City')
-final_merge2 = final_merge2[['City', 'State_x', 'RE & COL', 'Geography', 'Biz Env Score', 'Quality of Life']]
+final_merge2 = final_merge2[['City', 'State_x', 'RE & COL', 'Biz Env Score', 'Quality of Life']]
 final_merge3 = pd.merge(final_merge2, transport_rankings, how='left', left_on='City', right_on='City')
-final_merge3 = final_merge3[['City', 'State', 'RE & COL', 'Geography', 'Biz Env Score', 'Quality of Life', 'Transport']]
-final_merge3.columns = [['City/Region', 'State', 'Real Estate & Cost of Living', 'Geography', 'Business Environment', 'Quality of Life', 'Transportation']]
-final_merge3['Total Score'] = final_merge3['Real Estate & Cost of Living']+final_merge3['Geography']+final_merge3['Business Environment']+final_merge3['Quality of Life']+final_merge3['Transportation']
+final_merge3 = final_merge3[['City', 'State', 'RE & COL', 'Biz Env Score', 'Quality of Life', 'Transport']]
+final_merge3.columns = [['City/Region', 'State', 'Real Estate & Cost of Living', 'Business Environment', 'Quality of Life', 'Transportation']]
+final_merge3['Total Score'] = final_merge3['Real Estate & Cost of Living']+final_merge3['Business Environment']+final_merge3['Quality of Life']+final_merge3['Transportation']
 final_merge3 = final_merge3.sort_values('Total Score', ascending=False)
 rank_index = np.arange(1,20,1)
 final_merge3.set_index(rank_index, inplace=True, drop=True)
 final_merge3
 ```
-
-
-
-
-<div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>City/Region</th>
-      <th>State</th>
-      <th>Real Estate &amp; Cost of Living</th>
-      <th>Geography</th>
-      <th>Business Environment</th>
-      <th>Quality of Life</th>
-      <th>Transportation</th>
-      <th>Total Score</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>1</th>
-      <td>Raleigh</td>
-      <td>NC</td>
-      <td>9.4</td>
-      <td>7.5</td>
-      <td>8.5</td>
-      <td>4.6</td>
-      <td>8.5</td>
-      <td>38.5</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>Miami</td>
-      <td>FL</td>
-      <td>6.1</td>
-      <td>10.0</td>
-      <td>6.8</td>
-      <td>6.9</td>
-      <td>5.7</td>
-      <td>35.5</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>Pittsburgh</td>
-      <td>PA</td>
-      <td>8.2</td>
-      <td>5.1</td>
-      <td>5.5</td>
-      <td>5.6</td>
-      <td>10.0</td>
-      <td>34.4</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>Atlanta</td>
-      <td>GA</td>
-      <td>10.0</td>
-      <td>6.8</td>
-      <td>4.1</td>
-      <td>5.9</td>
-      <td>5.1</td>
-      <td>31.9</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>Montgomery County</td>
-      <td>MD</td>
-      <td>5.6</td>
-      <td>7.0</td>
-      <td>7.0</td>
-      <td>10.0</td>
-      <td>1.8</td>
-      <td>31.4</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>Columbus</td>
-      <td>OH</td>
-      <td>8.8</td>
-      <td>4.7</td>
-      <td>4.8</td>
-      <td>6.4</td>
-      <td>6.2</td>
-      <td>30.9</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>Dallas</td>
-      <td>TX</td>
-      <td>8.8</td>
-      <td>3.7</td>
-      <td>7.1</td>
-      <td>6.5</td>
-      <td>4.3</td>
-      <td>30.4</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>Boston</td>
-      <td>MA</td>
-      <td>2.5</td>
-      <td>8.5</td>
-      <td>7.9</td>
-      <td>4.2</td>
-      <td>6.2</td>
-      <td>29.3</td>
-    </tr>
-    <tr>
-      <th>9</th>
-      <td>Nashville</td>
-      <td>TN</td>
-      <td>8.3</td>
-      <td>4.9</td>
-      <td>7.9</td>
-      <td>6.4</td>
-      <td>1.5</td>
-      <td>29.0</td>
-    </tr>
-    <tr>
-      <th>10</th>
-      <td>Indianapolis</td>
-      <td>IN</td>
-      <td>8.5</td>
-      <td>4.0</td>
-      <td>9.3</td>
-      <td>0.0</td>
-      <td>6.3</td>
-      <td>28.1</td>
-    </tr>
-    <tr>
-      <th>11</th>
-      <td>Austin</td>
-      <td>TX</td>
-      <td>8.2</td>
-      <td>3.8</td>
-      <td>6.1</td>
-      <td>8.2</td>
-      <td>1.8</td>
-      <td>28.1</td>
-    </tr>
-    <tr>
-      <th>12</th>
-      <td>Philadelphia</td>
-      <td>PA</td>
-      <td>6.7</td>
-      <td>7.3</td>
-      <td>3.1</td>
-      <td>3.2</td>
-      <td>6.5</td>
-      <td>26.8</td>
-    </tr>
-    <tr>
-      <th>13</th>
-      <td>Denver</td>
-      <td>CO</td>
-      <td>5.3</td>
-      <td>0.0</td>
-      <td>10.0</td>
-      <td>6.2</td>
-      <td>5.0</td>
-      <td>26.5</td>
-    </tr>
-    <tr>
-      <th>14</th>
-      <td>Northern Virginia</td>
-      <td>VA</td>
-      <td>5.1</td>
-      <td>7.1</td>
-      <td>7.8</td>
-      <td>6.4</td>
-      <td>0.0</td>
-      <td>26.4</td>
-    </tr>
-    <tr>
-      <th>15</th>
-      <td>Newark</td>
-      <td>NJ</td>
-      <td>4.0</td>
-      <td>7.5</td>
-      <td>5.2</td>
-      <td>6.0</td>
-      <td>3.3</td>
-      <td>26.0</td>
-    </tr>
-    <tr>
-      <th>16</th>
-      <td>Washington</td>
-      <td>DC</td>
-      <td>5.7</td>
-      <td>7.1</td>
-      <td>4.7</td>
-      <td>1.8</td>
-      <td>3.5</td>
-      <td>22.8</td>
-    </tr>
-    <tr>
-      <th>17</th>
-      <td>New York</td>
-      <td>NY</td>
-      <td>0.0</td>
-      <td>7.5</td>
-      <td>2.8</td>
-      <td>6.2</td>
-      <td>3.0</td>
-      <td>19.5</td>
-    </tr>
-    <tr>
-      <th>18</th>
-      <td>Los Angeles</td>
-      <td>CA</td>
-      <td>0.8</td>
-      <td>1.9</td>
-      <td>4.3</td>
-      <td>5.5</td>
-      <td>5.1</td>
-      <td>17.6</td>
-    </tr>
-    <tr>
-      <th>19</th>
-      <td>Chicago</td>
-      <td>IL</td>
-      <td>5.1</td>
-      <td>3.1</td>
-      <td>0.0</td>
-      <td>4.8</td>
-      <td>3.3</td>
-      <td>16.3</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-
-```python
-final_merge4 = final_merge3[['City/Region', 'State', 'Real Estate & Cost of Living', 'Business Environment', 'Quality of Life', 'Transportation']]
-final_merge4['Total Score'] = final_merge4['Real Estate & Cost of Living']+final_merge4['Business Environment']+final_merge4['Quality of Life']+final_merge4['Transportation']
-final_merge4 = final_merge4.sort_values('Total Score', ascending=False)
-final_merge4.set_index(rank_index, inplace=True, drop=True)
-final_merge4
-```
-
-    C:\Users\jakec\Anaconda3\lib\site-packages\ipykernel_launcher.py:2: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
-      
-    
 
 
 
