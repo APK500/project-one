@@ -1,0 +1,20 @@
+﻿City,Compound,Degree_score
+columbus,0.204484,10
+chicago,0.198456,9.8
+nashville,0.188752,9.5
+dallas,0.169504,8.9
+rockville,0.167512,8.8
+atlanta,0.166684,8.8
+pittsburgh,0.124671,7.4
+newark,0.116248,7.1
+austin,0.113953,7
+miami,0.112884,7
+denver,0.080284,5.9
+philadelphia,0.071109,5.6
+raleigh,0.028291,4.2
+new york,0.024571,4.1
+boston,-0.009928,3
+los angeles,-0.03443,2.2
+alexandria,-0.059773,1.4
+indianapolis,-0.094075,0.2
+washington,-0.10116,0
