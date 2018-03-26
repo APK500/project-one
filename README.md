@@ -3,6 +3,7 @@
 ```python
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 ```
 
 
@@ -1181,6 +1182,7 @@ final_merge3 = final_merge3.sort_values('Total Score', ascending=False)
 rank_index = np.arange(1,20,1)
 final_merge3.set_index(rank_index, inplace=True, drop=True)
 final_merge3
+plt.legend((p1[0], p2[0], p3[0], p4[0]), ('Real Estate & Cost of Living', 'Business Environment', 'Quality of Life', 'Transportation'))
 ```
 
 
@@ -1408,4 +1410,38 @@ final_merge3
 </table>
 </div>
 
+
+
+
+```python
+# Create stacked bar chart of final results
+plt.style.use('ggplot')
+
+N = len(final_merge3.index)
+RE_COL = final_merge3['Real Estate & Cost of Living']
+Biz_Env = final_merge3['Business Environment']
+QOL = final_merge3['Quality of Life']
+Trans = final_merge3['Transportation']
+ind = np.arange(N)
+width = 0.5
+
+plt.figure(figsize=(15,10))
+p1 = plt.bar(ind, RE_COL, width)
+p2 = plt.bar(ind, Biz_Env, width, bottom=RE_COL)
+p3 = plt.bar(ind, QOL, width, bottom= np.array(RE_COL)+np.array(Biz_Env))
+p4 = plt.bar(ind, Trans, width, bottom=np.array(RE_COL)+np.array(Biz_Env)+np.array(QOL))
+
+
+plt.ylabel('Total Scores')
+plt.xticks(ind, final_merge3['City/Region'], rotation=45, ha='right')
+plt.yticks(np.arange(0, 40, 5))
+plt.legend((p1[0], p2[0], p3[0], p4[0]), ('Real Estate & Cost of Living', 'Business Environment', 'Quality of Life', 'Transportation'))
+plt.title('Amazon HQ2 Location Final Rankings')
+plt.savefig('Amazon HQ2 Location Final Rankings.png')
+plt.show()
+
+```
+
+
+![png](output_8_0.png)
 
